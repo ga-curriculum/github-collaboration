@@ -10,6 +10,11 @@ Use this to build new lesson modules.
 ## Module Outline
 
 **LESSON** : [Name of Lesson](#)
+
+| Type          | Delivery Time|
+|---------------|--------------|
+| Lesson        |  60 min      |
+
   - Micro lesson
   - Micro lesson
   - Micro lesson
