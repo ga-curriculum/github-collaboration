@@ -6,7 +6,6 @@ Use this to build new lesson modules.
 
 ![Bannner Image] - this should be a GA asset if possible
 
-<hr>
 
 ## Module Outline
 
@@ -16,7 +15,6 @@ Use this to build new lesson modules.
   - Micro lesson
   - Micro lesson
 
-<hr>
 
 ## Module Resources
 
