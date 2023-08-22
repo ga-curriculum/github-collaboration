@@ -4,45 +4,58 @@ Use this to build new lesson modules.
 
 # Title of Module
 
-![Bannner Image] - this should be a GA asset if possible
+![Banner Image] - this should be a GA asset if possible
 
 
-## Module Outline
+## Module Overview
 
-**LESSON** : [Name of Lesson](#)
+The summary TL;DR overview of the module will go here for quick scanning. 
 
-| Type          | Delivery Time|
-|---------------|--------------|
-| Lesson        |  60 min      |
 
-  - Micro lesson
-  - Micro lesson
-  - Micro lesson
-  - Micro lesson
+## Outline
+
+| Lesson                                               | Delivery Time    | Video     |
+|----------------------------------------------------|------------------|-----------|
+| [Name of Micro Lesson 1](./micro-lesson-1/)        |  15 min          | [Link]()  |
+
+
+| Lesson                                               | Delivery Time    | Video     |
+|----------------------------------------------------|------------------|-----------|
+| [Name of Micro Lesson 2](./micro-lesson-2/)        |  15 min          | [Link]()  |
+
+
+| Lesson                                               | Delivery Time    | Video     |
+|----------------------------------------------------|------------------|-----------|
+| [Name of Micro Lesson 3](./micro-lesson-3/)        |  15 min          | [Link]()  |
 
 
 ## Module Resources
 
-:eyeglasses: [Accessibility Considerations](./Instructor-Guide/accessibility.md)
-  - [What is this?: How to teach this lesson with accessibility in mind]
-
-:mag: [Further Study](./further-study.md)
-  - [What is this?: Enrichment materials for more advanced students]
-
-:pencil2: [Glossary](./glossary.md)
-  - [What is this?: Definitions for key vocabulary from all lesson content]
-
 :file_folder: [Instructor Guide](./Instructor-Guide/)
   - [What is this?: Aimed at new instructors, how to teach this lesson, key points to focus on, value to students]
 
-:books: [Resources](./resources.md)
-  - [What is this?: Links to external documentation and reference materials relevant to lessons]
+:rocket: [Level Up](./further-study.md)
+  - [What is this?: Enrichment materials for more advanced students]
 
-:bulb: [Module TL;DR](./tldr.md)
-  - [What is this?: A summary of the module that a non technical person can use to inform contextualization requests and the contents of the module at a glance ]
+:open_book: [Reference Materials](./reference.md)
+  - [What is this?: Links to external documentation and reference materials relevant to lessons]
 
 
 <hr>
 
 **Find a :space_invader: let us know!**
 [Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
+
+
+
+
+
+
+<hr>
+
+Change Log: 
+
+- Deleted Glossary file - terms will be defined in line in micro lessons (8/22)
+- Renamed "Further Study" to "Level-Up" so not to be confused with external resources or documentations links, also to make it clear that it contains stretch goals intended for students (8/22)
+- Removed Accessibility content for now - this will be a future addition to curriculum (8/22)
+- Moved TL;DR into main readme as overview (8/22)
