@@ -47,10 +47,6 @@ The summary TL;DR overview of the module will go here for quick scanning.
 [Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
 
 
-
-
-
-
 <hr>
 
 Change Log: 
