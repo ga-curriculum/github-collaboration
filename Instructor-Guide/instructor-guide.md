@@ -1,5 +1,7 @@
 # Instructor Notes
 
+[What is this?: Aimed at new instructors, how to teach this lesson, key points to focus on, value to students]
+
 ## Micro Lesson 1
 
 Aimed at new instructors, how to teach this lesson, key points to focus on, value to students

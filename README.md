@@ -1,7 +1,3 @@
-# TEMPLATE-Lesson-Module
-Use this to build new lesson modules. 
-
-
 # Title of Module
 
 ![Banner Image] - this should be a GA asset if possible
@@ -12,7 +8,7 @@ Use this to build new lesson modules.
 The summary TL;DR overview of the module will go here for quick scanning. 
 
 
-## Outline
+## Table of Contents
 
 | Lesson                                               | Delivery Time    | Video     |
 |----------------------------------------------------|------------------|-----------|
@@ -32,22 +28,19 @@ The summary TL;DR overview of the module will go here for quick scanning.
 ## Module Resources
 
 :file_folder: [Instructor Guide](./Instructor-Guide/instructor-guide.md)
-  - [What is this?: Aimed at new instructors, how to teach this lesson, key points to focus on, value to students]
 
 :rocket: [Level Up](./level-up/level-up.md.md)
-  - [What is this?: Enrichment materials for more advanced students]
 
 :open_book: [Reference Materials](./reference/reference.md.md)
-  - [What is this?: Links to external documentation and reference materials relevant to lessons]
-
 
 <hr>
 
 **Find a :space_invader: let us know!**
 [Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
 
-
 <hr>
+
+<br><br>
 
 Change Log: 
 
