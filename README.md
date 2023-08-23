@@ -31,13 +31,13 @@ The summary TL;DR overview of the module will go here for quick scanning.
 
 ## Module Resources
 
-:file_folder: [Instructor Guide](./Instructor-Guide/)
+:file_folder: [Instructor Guide](./Instructor-Guide/instructor-guide.md)
   - [What is this?: Aimed at new instructors, how to teach this lesson, key points to focus on, value to students]
 
-:rocket: [Level Up](./further-study.md)
+:rocket: [Level Up](./level-up/level-up.md.md)
   - [What is this?: Enrichment materials for more advanced students]
 
-:open_book: [Reference Materials](./reference.md)
+:open_book: [Reference Materials](./reference/reference.md.md)
   - [What is this?: Links to external documentation and reference materials relevant to lessons]
 
 
