@@ -29,7 +29,7 @@ The summary TL;DR overview of the module will go here for quick scanning.
 
 :file_folder: [Instructor Guide](./Instructor-Guide/instructor-guide.md)
 
-:rocket: [Level Up](./level-up/level-up.md.md)
+:rocket: [Level Up](./level-up/level-up.md)
 
 :open_book: [Reference Materials](./reference/reference.md.md)
 
