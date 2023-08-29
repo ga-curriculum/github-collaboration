@@ -1,6 +1,6 @@
 # [tktk Module Name] - References
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-secondary.png)
 
 ## Lesson references
 

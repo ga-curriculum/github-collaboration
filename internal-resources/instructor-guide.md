@@ -1,6 +1,6 @@
 # [tktk Module Name] - Instructor Guide
 
-![Hero image](../assets/hero.png)
+![Hero image](../assets/tktkhero-secondary.png)
 
 tktk information to help instructors deliver this content live should be added here. This file should not be removed, even if there is not content to place here immediately, and the following content should be retained regardless of how much content is in this file.
 

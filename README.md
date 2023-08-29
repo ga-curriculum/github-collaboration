@@ -1,6 +1,6 @@
 # [tktk Module Name]
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
 

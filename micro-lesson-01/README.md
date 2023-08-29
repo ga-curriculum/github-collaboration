@@ -1,5 +1,5 @@
 # [tktk Module Name] - tktk Micro Lesson Name
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-secondary.png)
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
