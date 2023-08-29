@@ -1,9 +1,5 @@
-# Resources for Further Study 
+# [tktk Module Name] - Level Up
 
-[What is this?: Enrichment materials for more advanced students]
+![Hero image](./assets/hero.png)
 
-( Include additional exercises here, preferably not links to outside materials that we would struggle to maintain active links to ) 
-
-1.
-2.
-3.
+tktk optional student facing level up content should be added here. Not all modules will have level up content - if it doesn't the `level-up` directory should be deleted and the link to it in the main `README.md` file should be removed.

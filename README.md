@@ -1,50 +1,41 @@
-# Title of Module
+# [tktk Module Name]
 
-![Banner Image] - this should be a GA asset if possible
+![Hero image](./assets/hero.png)
 
+## Module overview
 
-## Module Overview
+### Learning objectives
 
-The summary TL;DR overview of the module will go here for quick scanning. 
+After completing this module, students will be able to:
 
+- tktk learning objective 1
+- tktk learning objective 2
+- tktk learning objective 3
 
-## Table of Contents
+## Content outline
 
-| Lesson                                               | Delivery Time    | Video     |
-|----------------------------------------------------|------------------|-----------|
-| [Name of Micro Lesson 1](./micro-lesson-1/)        |  15 min          | [Link]()  |
+| Lesson | Video Time | Video |
+| ------ |:----------:|:-----:|
+| [tktk Micro Lesson Name](./tktk-micro-lesson-01/README.md) | tktk min | [tktk Link]() |
+| [tktk Micro Lesson Name](./tktk-micro-lesson-02/README.md) | tktk min | [tktk Link]() |
+| [tktk Micro Lesson Name](./tktk-micro-lesson-03/README.md) | tktk min | [tktk Link]() |
+|  **Total Module**                                          | tktk min | --            | 
 
+## Additional content 
 
-| Lesson                                               | Delivery Time    | Video     |
-|----------------------------------------------------|------------------|-----------|
-| [Name of Micro Lesson 2](./micro-lesson-2/)        |  15 min          | [Link]()  |
+🚀 [Level Up](./level-up/README.md)
 
+📖 [Reference Materials](./references/README.md)
 
-| Lesson                                               | Delivery Time    | Video     |
-|----------------------------------------------------|------------------|-----------|
-| [Name of Micro Lesson 3](./micro-lesson-3/)        |  15 min          | [Link]()  |
+## Internal resources
 
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
-## Module Resources
+🎥 [Video Hub](./internal-resources/video-guide/README.md)
 
-:file_folder: [Instructor Guide](./Instructor-Guide/instructor-guide.md)
-
-:rocket: [Level Up](./level-up/level-up.md)
-
-:open_book: [Reference Materials](./reference/reference.md.md)
+🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 <hr>
 
-**Find a :space_invader: let us know!**
+**Find a 👾 bug 👾? let us know!**
 [Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
-
-<hr>
-
-<br><br>
-
-Change Log: 
-
-- Deleted Glossary file - terms will be defined in line in micro lessons (8/22)
-- Renamed "Further Study" to "Level-Up" so not to be confused with external resources or documentations links, also to make it clear that it contains stretch goals intended for students (8/22)
-- Removed Accessibility content for now - this will be a future addition to curriculum (8/22)
-- Moved TL;DR into main readme as overview (8/22)
