@@ -37,5 +37,5 @@ After completing this module, students will be able to:
 
 <hr>
 
-**Find a 👾 bug 👾? let us know!**
+**Find a 👾 bug 👾? Let us know!**
 [Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
