@@ -4,28 +4,26 @@
 
 ## Module overview
 
-### Learning objectives
-
-After completing this module, students will be able to:
-
-- tktk learning objective 1
-- tktk learning objective 2
-- tktk learning objective 3
+tktk What is the takeaway of this module?
 
 ## Content outline
 
-| Lesson | Video Time | Video |
-| ------ |:----------:|:-----:|
-| [tktk Micro Lesson Name](./tktk-micro-lesson-01/README.md) | tktk min | [tktk Link]() |
-| [tktk Micro Lesson Name](./tktk-micro-lesson-02/README.md) | tktk min | [tktk Link]() |
-| [tktk Micro Lesson Name](./tktk-micro-lesson-03/README.md) | tktk min | [tktk Link]() |
-|  **Total Module**                                          | tktk min | --            | 
+| Lesson | Video Time | Video | Learning Objective |
+| ------ |:----------:|:-----:| ------------------ |
+| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
+|  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
 
-🚀 [Level Up](./level-up/README.md)
-
 📖 [Reference Materials](./references/README.md)
+
+### 🚀 Level Up
+
+- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
+- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
+- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
 
 ## Internal resources
 
@@ -35,7 +33,7 @@ After completing this module, students will be able to:
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
-<hr>
+---
 
 **Find a 👾 bug 👾? Let us know!**
-[Submit Feedback](https://generalassembly.atlassian.net/servicedesk/customer/portal/16)
+[Submit Feedback](https://ga.co/curriculum-feedback)

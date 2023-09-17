@@ -1,5 +1,5 @@
 Lecture title: [tktk Module Name]
-Subtitle: micro-lesson-02
+Subtitle: microlesson-02
 
 chapter-file-name
 - Chapter title: Name of chapter
