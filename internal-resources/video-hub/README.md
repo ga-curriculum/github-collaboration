@@ -14,6 +14,6 @@ Here you'll find the outlines and the assets used in video content, as well as t
 
 | Lesson | External content |
 | ------ |:----------------:|
-| [micro-lesson-01](./micro-lesson-01.txt) | n/a |
-| [micro-lesson-02](./micro-lesson-02.txt) | n/a |
-| [micro-lesson-03](./micro-lesson-03.txt) | n/a |
+| [microlesson-01](./microlesson-01.txt) | n/a |
+| [microlesson-02](./microlesson-02.txt) | n/a |
+| [microlesson-03](./microlesson-03.txt) | n/a |
