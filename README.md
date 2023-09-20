@@ -35,5 +35,5 @@ tktk What is the takeaway of this module?
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know]((https://ga.co/curriculum-feedback))!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga.co/curriculum-feedback)!**
 
