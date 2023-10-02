@@ -8,11 +8,11 @@ tktk What is the takeaway of this module?
 
 ## Content outline
 
-| Lesson | Video Time | Video | Learning Objective |
-| ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| -------------- |
+| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
 |  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
