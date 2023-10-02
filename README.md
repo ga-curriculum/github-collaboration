@@ -13,7 +13,7 @@ tktk What is the takeaway of this module?
 | [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
 | [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
 | [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-|  **Total Module**                                        | tktk min | --            | ---     |
+|  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 
 
