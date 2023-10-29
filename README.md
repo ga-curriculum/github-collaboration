@@ -15,7 +15,7 @@ tktk What are the prerequisites of this module?
 | [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-|  **Total Module**                                        | -- | -- | --                  |
+| **Total Module**                                         | -- | -- | --                  |
 
 ## Level Up content
 
