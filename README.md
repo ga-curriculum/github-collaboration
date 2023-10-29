@@ -31,9 +31,9 @@ tktk What are the prerequisites of this module?
 
 ## Deployed sites
 
-🌐 [Live site](tktk-deployed-app-url)
+🌐 [Live site](#tktk-deployed-app-url)
 
-🐙 [Repository](tktk-repository-for-deployed-app)
+🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
