@@ -2,11 +2,13 @@
 
 ## About
 
-tktk What is the takeaway of this module?
+tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-tktk What are the prerequisites of this module?
+- tktk
+- tktk
+- tktk
 
 ## Content
 
@@ -15,7 +17,7 @@ tktk What are the prerequisites of this module?
 | [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| **Total Module**                                         | -- | -- | --                  |
+| **Total content video time**                             | -- | -- | --                  |
 
 ## Level Up content
 
@@ -24,6 +26,7 @@ tktk What are the prerequisites of this module?
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| **Total Level Up content video time**                               | -- | -- | --                  |
 
 ## References
 
