@@ -1,34 +1,42 @@
-# ![tktk Module Name](./assets/tktkhero-main.png)
+# ![[tktk Module Name]](./assets/tktkhero-main.png)
 
 ## About
 
-tktk 
+tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
- - tktk
+- tktk
+- tktk
+- tktk
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk topics covered |
-|  **Total Module**                                        | -- | -- |                     |
+| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
+| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| **Total content video time**                             | -- | -- | --                  |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk topics covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk topics covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk topics covered |
-|  **Bonus**                                                          | -- | -- |                     |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| **Total Level Up content video time**                               | -- | -- | --                  |
 
-## Reference
+## References
 
 📖 [Reference Materials](./references/README.md)
+
+## Deployed sites
+
+🌐 [Live site](#tktk-deployed-app-url)
+
+🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 

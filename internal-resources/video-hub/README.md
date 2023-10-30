@@ -4,9 +4,9 @@ Here you'll find the outlines and the assets used in video content, as well as t
 
 ## Video content
 
-🪨 [Originals]()
+🪨 [Originals](#)
 
-💎 [Finals]()
+💎 [Finals](#)
 
 ## Final creation notes and external content
 
