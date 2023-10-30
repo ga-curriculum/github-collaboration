@@ -17,7 +17,7 @@ tktk Write a short but descriptive summary of the content in this module.
 | [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
 | [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| **Total content video time**                             | -- | -- | --                  |
+| **Total content**                                        | -- | -- | --                  |
 
 ## Level Up content
 
@@ -26,13 +26,15 @@ tktk Write a short but descriptive summary of the content in this module.
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
-| **Total Level Up content video time**                               | -- | -- | --                  |
+| **Total Level Up content**                                          | -- | -- | --                  |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
 
 ## Deployed sites
+
+tktk If there is not a deployed site related to this module this section and all of its content should be removed.
 
 🌐 [Live site](#tktk-deployed-app-url)
 
