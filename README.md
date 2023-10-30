@@ -1,29 +1,34 @@
-# [tktk Module Name]
+# ![tktk Module Name](./assets/tktkhero-main.png)
 
-![Hero image](./assets/tktkhero-main.png)
+## About
 
-## Module overview
+tktk 
 
-tktk What is the takeaway of this module?
+## Prerequisites
 
-## Content outline
+ - tktk
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| -------------- |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-|  **Total Module**                                        | tktk min | ---           | ---                 |
+## Content
 
-## Additional content 
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk topics covered |
+| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk topics covered |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk topics covered |
+|  **Total Module**                                        | -- | -- |                     |
+
+## Level Up content
+
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk topics covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk topics covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk topics covered |
+|  **Bonus**                                                          | -- | -- |                     |
+
+## Reference
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
 
 ## Internal resources
 
