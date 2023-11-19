@@ -1,29 +1,44 @@
-# [tktk Module Name]
+# ![[tktk Module Name]](./assets/tktk-hero.png)
 
-![Hero image](./assets/tktkhero-main.png)
+## About
 
-## Module overview
+tktk Write a short but descriptive summary of the content in this module.
 
-tktk What is the takeaway of this module?
+## Prerequisites
 
-## Content outline
+- tktk
+- tktk
+- tktk
 
-| Lesson | Video Time | Video | Learning Objective |
-| ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
-|  **Total Module**                                        | tktk min | --            | ---     |
+## Content
 
-## Additional content 
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
+| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| **Total content**                                        | -- | -- |                     |
+
+## Level Up content
+
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| **Total Level Up content**                                          | -- | -- |                     |
+
+## References
 
 📖 [Reference Materials](./references/README.md)
 
-### 🚀 Level Up
+## Deployed sites
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+tktk If there is not a deployed site related to this module this section and all of its content should be removed.
+
+🌐 [Live site](#tktk-deployed-app-url)
+
+🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
@@ -35,5 +50,4 @@ tktk What is the takeaway of this module?
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga.co/curriculum-feedback)!**
-
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
