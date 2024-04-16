@@ -6,20 +6,23 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to React
+- Building Your First React App
+- User Events in React
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
+| [Setup](./setup/README.md) | -- | -- | Setting up the development environment  |
+| [Concepts](./concepts/README.md) | -- | -- | Why GitHub is used to collaborate across large projects or organizations |
+| [Forking and Cloning](./forking-and-cloning/README.md) | -- | -- | Fork and clone a repository from GitHub |
+| [Branching and Working with Branches](./branching-and-working-with-branches/README.md) | -- | -- | Add and view remote repositories on local repositories |
+| [Pull Requests](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Merge Conflicts](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Working with a Team](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| **Total content** | -- | -- | |
 
 ## Level Up content
 
@@ -31,14 +34,6 @@ tktk Write a short but descriptive summary of the content in this module.
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
