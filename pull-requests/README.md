@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-Pull requests are a way to propose changes to a repository on GitHub. Pull request are a way to review code and discuss changes before merging them into the main codebase. Let's create a pull request.
+Pull requests are a way to propose changes to a repository on GitHub. They are a way to review code and discuss changes before merging them into the main codebase. Let's create a pull request.
 
 ## Creating a Pull Request
 
@@ -21,16 +21,12 @@ Whichever way you choose to navigate to the pull request page, you will notice t
 
 When you navigate to the pull request page, you will see a few different sections. The first section is the `Comparing changes` section. This section is where you will select the branches you want to compare. There will be two dropdowns that allow you to select the base branch and the compare branch.
 
-tktk screenshot of comparing changes
-
 - **Base branch** - This is the branch you want to merge your changes into. This is typically the `main` or `dev` branch.
 - **Compare branch** - This is the branch you want to merge into the base branch. This is typically the feature branch you have been working on. In our case, it is `feature/new-feature-one`.
 
 > Even if you cannot automatically merge your changes, you can still create a pull request.
 
 The second section is the **Title** and **Description** section. This is where you will give your pull request a title and a description. The title should be short and descriptive. The description should be more detailed and explain what changes you made and why you made them. When leaving a description, it is important to be as detailed as possible. This will help the reviewer understand what changes you made and why you made them.
-
-tktk screenshot of title and description
 
 After you have selected the branches you want to compare and given your pull request a title and description, you can click on the `Create pull request` button. This will create the pull request and take you to the pull request page.
 

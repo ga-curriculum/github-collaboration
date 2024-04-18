@@ -8,16 +8,16 @@ Forking and cloning are essential Git operations that allow you to copy a reposi
 
 ## Forking a Repository
 
-Forking a repository, commonly known as "forking a repo," is the process of creating a personal copy of someone else's project on GitHub. This allows you to freely experiment with changes without affecting the original project. Essentially, a fork is a snapshot of the original repository at the time you perform the fork operation.
+Forking a repository, commonly known as *"forking a repo"*, is the process of creating a personal copy of someone else's project on GitHub. This allows you to freely experiment with changes without affecting the original project. Essentially, a fork is a snapshot of the original repository at the time you perform the fork operation.
 
 tktk Hunter - Can you make this pretty?
 ![](./assets/tktk-forking.png)
 
 > Think of repositories as folders. Forking is like making a copy of a folder on your computer. You can make changes to the copy without affecting the original folder. Forking is a powerful feature that enables not only collabroation but also experimentation and learning.
 
-### How to
+### How to Fork a Repository
 
-1. **Navigate to the Repository**: For this lesson we will navigate to [this](tktk-make and link starter repo) repository, but forking can be done on any repository on GitHub.
+1. **Navigate to the Repository**: For this lesson we will be using the repository your partner created at the begining of this lesson, but forking can be done on any repository on GitHub.
 
 2. **Click the 'Fork' Button**: Located usually at the top-right corner of the repository's page, clicking this button will create a copy of the repository in your GitHub account.
 
@@ -46,13 +46,13 @@ tktk Hunter - Can you make this pretty?
 3. **Run the Clone Command**: Execute the `git clone` command followed by the repository URL. The syntax is `git clone [URL]`.
 
 ```bash
-git clone https://github.com/your-username/tktk-update-this.git
+git clone https://github.com/your-username/github-collaboration.git
 ```
 
 4. **Navigate to the Project Folder**: After cloning, a local directory matching your forked repository will be created. Navigate into this directory to view files or to start coding.
 
 ```bash
-cd forked-repo
+cd github-collaboration
 ```
 
 5. **Start Working**: You can now begin making changes, creating new branches, committing your changes, and pushing them back to your forked repository on GitHub.

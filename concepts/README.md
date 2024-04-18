@@ -29,11 +29,3 @@ GitHub's popularity as a version control platform can be attributed to several k
 - **Visibility and Discoverability:** GitHub's public repositories allow developers to showcase their work, contribute to open-source projects, and build a portfolio of projects.
 
 During this lesson we are going to deep dive into using GitHub for collaborative coding.
-
-notes
-
-what is git and what can it do?
-- keep track of changes to code
-- synchronize code across multiple developers
-- test changes without affecting the main codebase
-- revert to previous versions

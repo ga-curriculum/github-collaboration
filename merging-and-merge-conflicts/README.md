@@ -15,19 +15,29 @@ This pull request page will have a lot of information on it that is important to
 - **Number of Files Changed** - This is the number of files that have been changed in the pull request.
 - **Compare Branches** - This is the base branch and the compare branch. The base branch is the branch you want to merge into and the compare branch is the branch you want to merge into the base branch.
 
-tktk screenshot of pull request page
-
 > Always take a moment to verify that the branches you are merging are correct. If they are not correct, you can change them by clicking on the `Edit` button next to the branches.
 
 Down near the bottom of the page is the `Merge pull request` button. When you click on this button, GitHub will merge the changes from the compare branch into the base branch. That's it! You have merged the changes remotely. 🎉
 
-But wait there's more! In all seriousness, there is one more action we need to take after we merge remotely. We need to pull the changes down to our local machine. This is done by running the following command in your terminal:
+But wait there's more! In all seriousness, there is one more action we need to take after we merge remotely. We need to pull the changes down to our local machine. If we were working with our own repository it would be as simple as running the following command in the terminal:
 
 ```bash
 git pull origin main
 ```
 
-> This is done because the merge was done remotely. This means that our changes only took place on GitHub. We need to pull the changes down to our local machine so we can continue working.
+However we are working with a forked repository. This means that we need to pull the changes from the original repository. To do this we need to add the original repository as a remote repository. Navigate to your partner's repository on GitHub and copy the HTTPS key from the drop down `Code` button. Then run the following command in the terminal:
+
+```bash
+git remote add upstream <HTTPS key>
+```
+
+This action will add another remote location we can pull changes from. Now we can pull the changes from the original repository. Run the following command in the terminal:
+
+```bash
+git pull upstream main
+```
+
+Remeber we have to do this because when we created the pull request we we merged the changes into the original repository. While we made and pushed the changes to our our forked repository through a feature branch, the changes were merged into the `main` branch of the original repository.
 
 **When to Merge Remotely**
 
@@ -38,8 +48,6 @@ Merging remotely is typically done when you are working on a team. This is becau
 So what is a merge conflict? A merge conflict happens when Git cannot automatically merge the changes from one branch into another. This can happen when two branches have made changes to the same line of code. When this happens, Git will mark the file with conflict markers. These conflict markers will show you the changes that are in conflict.
 
 When a merge conflict happens remotely, GitHub will let you know. You will see a message that says `This pull request has merge conflicts`. When you see this message, you will need to resolve the merge conflict before you can merge the changes. To resolve the merge conflict, click on the `Resolve conflicts` button. This will take you to the merge conflict page.
-
-tktk screenshot of merge conflict page and resolve conflicts button
 
 On the merge conflict page, you will see the files that have a merge conflict. You will also see the changes that are in conflict. To resolve the conflict, you will need to edit the file and remove the conflict markers. Once you have resolved the conflict, you can click on the `Mark as resolved` button. This will mark the conflict as resolved and you can now merge the changes.
 
@@ -88,7 +96,7 @@ Since we merged our feature branch remotely let's create a new branch to work wi
 git checkout -b feature/new-feature-two
 ```
 
-Open the file and make a change to the file. Once you have made the change, add and commit the changes. Check back out to the `main` branch:
+Create and make changes to a new file. Once you have made the change, add and commit the changes. Check back out to the `main` branch:
 
 ```bash
 git checkout main

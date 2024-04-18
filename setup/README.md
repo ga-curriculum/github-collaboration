@@ -2,24 +2,14 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your **`~/code/ga/lectures`** directory:
+Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
 ```bash
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`[tktk-module-name]`**, then enter this directory:
+Make a new repository on [GitHub](https://github.com/) named `github-collaboration`.
 
-```bash
-mkdir [tktk-module-name]
-cd [tktk-module-name]
-```
+**DO NOT CLONE THIS REPOSITORY YET!**
 
-<!-- Other setup instructions here -->
-
-
-Open the contents of the directory in VSCode:
-
-```bash
-code .
-```
+Select a partner to work with and send then the link to your new repository via Slack or any non distracting way. During the lesson, you will interact with your partner's repository.

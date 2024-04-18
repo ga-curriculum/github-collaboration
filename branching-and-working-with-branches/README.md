@@ -7,7 +7,7 @@ We've forked and cloned a repository, and now we're ready to start working on it
 Imagine you have a single code base. It's a full CRUD application that is deployed and people have been interacting with it through the web. You want to add a new feature, but you're not sure if it will work. You don't want to break the main codebase, so you **create** and **checkout** to a new branch. 
 
 tktk Hunter - Can you make this pretty?
-![](./assets/tktk-.png)
+![](./assets/tktk-checkout-branch.png)
 
 > 🧠 Branching is like creating a parallel universe where you can experiment with new features, fix bugs, or refactor code without affecting the main codebase.
 
@@ -62,19 +62,33 @@ By following a consistent naming convention, you can easily identify the purpose
 
 ## Parrallel Universe - Branches
 
-When we forked and cloned down our starter repository we were given a `main` branch by default. Then `main` branch will always be present in a repository. And when we used the `git branch feature/new-feature-one` command we created another branch using the `main` branch as a starting point. This means that all the files and code that are in the `main` branch are also in the `feature/new-feature-one` branch. Let's open up our repository with VSCode and take a look at the branches. In your terminal, navigate to the repository directory and run the following command:
+When we forked and cloned down our partners repository we were given a `main` branch by default. Then `main` branch will always be present in a repository. And when we used the `git branch feature/new-feature-one` command we created another branch using the `main` branch as a starting point. This means that all the files and code that are in the `main` branch are also in the `feature/new-feature-one` branch. Let's open up our repository with VSCode and take a look at the branches in action. In your terminal, navigate to the repository directory and run the following commands:
 
 ```bash
+git checkout feature/new-feature-one
 code .
 ```
 
-Taking a look at the file tktk. Now checkout to the `main` branch and take a look at the file again. 
+Create a new file called `parallel-universe.md` and add the following content:
+
+```md
+Welcome to the parallel universe of branches!
+```
+
+Stage and commit the changes:
+
+```bash
+git add .
+git commit -m "Added parallel universe file"
+```
+
+Now checkout to the `main` branch and take a look at the file again. 
 
 ```bash
 git checkout main
 ```
 
-They are the same contents! Since we have not changed anything on our feature branch yet and we used the `main` branch as a starting point, the contents are the same.
+The contents are gone! This is because the file was created on the `feature/new-feature-one` branch. The `main` branch does not have the file because the changes were made on a separate branch. This is the power of branching. You can make changes to a branch without affecting the main codebase.
 
 Check back out to the feature branch:
 
@@ -82,26 +96,7 @@ Check back out to the feature branch:
 git checkout feature/new-feature-one
 ```
 
-Now let's make a change to the file. Open the tktk file and **remove all the contents**. Once you have removed the contents of the file replace it with:
-
-```md
-tktk
-```
-
-If you check the status of the repository you will see that the file has been modified. Let's add and commit the changes:
-
-```bash
-git add .
-git commit -m "Changed contents of tktk file"
-```
-
-Once we have committed the changes check back out to the `main` branch:
-
-```bash
-git checkout main
-```
-
-If you open the file you will see that the contents are still the original contents. This is because the changes we made were on the `feature/new-feature-one` branch. We have entered the parallel universe of branches. The `main` branch and the `feature/new-feature-one` branch are separate from each other. This is the power of branching. You can make changes to a branch without affecting the main codebase.
+The file is back! 🎉
 
 > You can switch between the branches as many times as you want. The changes you make in one branch will not affect the other branches.
 
