@@ -37,9 +37,3 @@ what is git and what can it do?
 - synchronize code across multiple developers
 - test changes without affecting the main codebase
 - revert to previous versions
-
-git clone
-
-git conflicts
-- when you pull code from a remote repository and there are changes in the remote repository that conflict with your local changes
-![merge conflict](./assets/originals/merge-conflict.png)

@@ -18,18 +18,10 @@ tktk Write a short but descriptive summary of the content in this module.
 | [Concepts](./concepts/README.md) | -- | -- | Why GitHub is used to collaborate across large projects or organizations |
 | [Forking and Cloning](./forking-and-cloning/README.md) | -- | -- | Fork and clone a repository from GitHub |
 | [Branching and Working with Branches](./branching-and-working-with-branches/README.md) | -- | -- | Add and view remote repositories on local repositories |
-| [Pull Requests](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| [Merge Conflicts](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| [Working with a Team](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Pull Requests](./pull-requests/README.md) | -- | -- | tktk skills covered |
+| [Merging and Merge Conflicts](./merging-and-merge-conflicts/README.md) | -- | -- | tktk skills covered |
+| [Working with a Team](./working-with-a-team/README.md) | -- | -- | tktk skills covered |
 | **Total content** | -- | -- | |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
 
 ## References
 
