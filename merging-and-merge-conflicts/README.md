@@ -1,6 +1,6 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![GitHub Collaboration - Merging and Merge Conflicts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to merge branches and handle merge conflicts.
 
 Merging is the process of combining changes from one branch into another. When you merge branches, Git will automatically determine the best way to combine the changes. However, there are times when Git cannot automatically merge the changes, resulting in a merge conflict. In this section we are going to look at merging both locally and remotely, and how to resolve merge conflicts.
 

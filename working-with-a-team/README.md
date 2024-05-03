@@ -1,6 +1,6 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![GitHub Collaboration - Working with a Team](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to describe best practices to work well as a team.
 
 There are many, many, many ways to collaborate with other using Git and GitHub. We are going to focus on just two workflows:
 
