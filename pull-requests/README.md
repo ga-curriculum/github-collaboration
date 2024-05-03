@@ -1,6 +1,6 @@
 # ![GitHub Collaboration - Pull Requests](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to submit pull requests
 
 Pull requests are a way to propose changes to a repository on GitHub. They are a way to review code and discuss changes before merging them into the main codebase. Let's create a pull request.
 

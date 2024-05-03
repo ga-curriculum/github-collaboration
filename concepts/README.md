@@ -1,6 +1,6 @@
 # ![GitHub Collaboration - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk.
+**Learning objective:** By the end of this lesson, students will be able to explain why GitHub is used to collaborate across large projects or organizations
 
 ## Collabarative Coding
 
