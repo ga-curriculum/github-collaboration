@@ -1,6 +1,6 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![GitHub Collaboration - Branching and Working with Branches](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk.
+**Learning objective:** By the end of this lesson, students will be able to add and view remote repositories on local repositories.
 
 We've forked and cloned a repository, and now we're ready to start working on it. But how do we manage our changes and collaborate with others? This is where branching and working with branches come in. Branching is a feature of Git that allows you to create separate lines of development within a repository. Each branch represents an independent line of development, allowing you to work on different features, bug fixes, or experiments without affecting the main codebase. 
 
