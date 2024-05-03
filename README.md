@@ -2,7 +2,7 @@
 
 ## About
 
-In this module, students will master GitHub collaboration techniques essential for contributing to team projects. They will learn the basics of forking and cloning repositories, managing branches, handling pull requests, and resolving merge conflicts. By the end of this module, students will be proficient in using GitHub to efficiently collaborate and contribute to shared projects.
+In this module, students will practice GitHub collaboration techniques essential for contributing to team projects. They will learn the basics of forking and cloning repositories, managing branches, handling pull requests, and resolving merge conflicts. By the end of this module, students will be proficient in using GitHub to efficiently collaborate and contribute to shared projects.
 
 ## Prerequisites
 
