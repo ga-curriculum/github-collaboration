@@ -9,17 +9,17 @@ There are many, many, many ways to collaborate with other using Git and GitHub. 
 
 ## Forking and Cloning Git Workflow
 
-Collaborating with others using the forking and cloning workflow is the most common way to work with others. This workflow is used when you want to contribute to a project that you do not have write access to. This is common when working on open source projects or contributing to a project that is maintained by someone else. Let's dive into the forking and cloning workflow.
+Using the forking and cloning workflow is the most common way to work with others. This workflow is used when you want to contribute to a project that you do not have write access to. This is common when working on open source projects or contributing to a project that is maintained by someone else. Let's dive into the forking and cloning workflow.
 
-- **Choose a repository creator:** The repository creator is the person who will be responsible for merging changes back into the main codebase. This person is typically the project lead.
-- **Everyone forks the repository:** Each team member will fork the repository to their GitHub account. This creates a copy of the repository on their account.
-- **Clone the repository:** Each team member will clone the repository to their local machine. This downloads the repository to their local machine.
-- **Create a new branch:** Each team member will create a new branch to work on a new feature or bug fix.
-- **Make changes:** Each team member will make changes to the codebase complete the feature or bug fix.
-- **Push the branch to GitHub:** Each team member will push the branch to their GitHub account.
-- **Create a pull request:** Each team member will create a pull request to merge their changes back into the main codebase.
-- **Review and merge:** Using the GitHub website, the repository creator will lead the team in a review of all pull requests. Once the changes have been reviewed, the repository creator will merge the changes back into the main codebase.
-- **Pull changes:** Each team member will pull the changes from the main codebase to their local machine.
+1. **Choose a repository creator:** The repository creator is the person who will be responsible for merging changes back into the main codebase. This person is typically the project lead.
+1. **Everyone forks the repository:** Each team member will fork the repository to their GitHub account. This creates a copy of the repository on their account.
+1. **Clone the repository:** Each team member will clone the repository. This downloads the repository to their local machine.
+1. **Create a new branch:** Each team member will create a new branch to work on a new feature or bug fix.
+1. **Make changes:** Each team member will make changes to the codebase to complete the feature or bug fix.
+1. **Push the branch to GitHub:** Each team member will push the branch to their GitHub account.
+1. **Create a pull request:** Each team member will create a pull request to merge their changes back into the main codebase.
+1. **Review and merge:** Using the GitHub website, the repository creator will lead the team in a review of all pull requests. Once the changes have been reviewed, the repository creator will merge the changes back into the main codebase.
+1. **Pull changes:** Each team member will pull the changes from the main codebase to their local machine.
 
 This can be a lot to take in and a lot to execute. Refer back in this module for more detailed instructions on each step.
 
@@ -29,7 +29,8 @@ In your teams, follow the forking and cloning workflow. Complete the following t
 
 - Choose a repository creator and have them create a new repository on GitHub.
 - When the team gets to the steps **Make Changes** everyone should add a new file called `team.md` to the repository. On the first line of this file put your name. (Every first line of `team.md` should be a different name.)
-- Refer back to [Resolving Merge Conflicts Remotely](./merging-and-merge-conflicts/README.md) for instructions on how to resolve merge conflicts.
+- Complete the flow above for pushing and merging your changes with a pull request.
+- Refer back to [Resolving Merge Conflicts Remotely](../merging-and-merge-conflicts/README.md) for instructions on how to resolve merge conflicts.
 
 At the end of this exercise, you should have a new file called `team.md` in the repository with everyone's name in it.
 
@@ -56,7 +57,8 @@ In your teams, follow the collaborators workflow. Complete the following tasks:
 
 - Choose a repository creator and have them create a new repository on GitHub.
 - When the team gets to the steps **Make Changes** everyone should add a new file called `team.md` to the repository. On the first line of this file put your name. (Every first line of `team.md` should be a different name.)
-- Refer back to [Resolving Merge Conflicts Remotely](./merging-and-merge-conflicts/README.md) for instructions on how to resolve merge conflicts.
+- Complete the flow above for pushing and merging your changes with a pull request.
+- Refer back to [Resolving Merge Conflicts Remotely](../merging-and-merge-conflicts/README.md) for instructions on how to resolve merge conflicts.
 
 At the end of this exercise, you should have a new file called `team.md` in the repository with everyone's name in it.
 

@@ -2,9 +2,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to add and view remote repositories on local repositories.
 
-We've forked and cloned a repository, and now we're ready to start working on it. But how do we manage our changes and collaborate with others? This is where branching and working with branches come in. Branching is a feature of Git that allows you to create separate lines of development within a repository. Each branch represents an independent line of development, allowing you to work on different features, bug fixes, or experiments without affecting the main codebase. 
+We've forked and cloned a repository, and now we're ready to start working on it. But how do we manage our changes and collaborate with others? This is where branching and working with branches come in. Branching is a feature of Git that allows you to create separate lines of development within a repository. Each branch represents an independent line of development, allowing you to work on different features, bug fixes, or experiments without affecting the main codebase.
 
-Imagine you have a single code base. It's a full CRUD application that is deployed and people have been interacting with it through the web. You want to add a new feature, but you're not sure if it will work. You don't want to break the main codebase, so you **create** and **checkout** to a new branch. 
+Imagine you have a single code base. It's a full CRUD application that is deployed and people have been interacting with it through the web. You want to add a new feature, but you're not sure if it will work. You don't want to break the main codebase, so you **create** and **checkout** to a new branch.
 
 ![Branches](./assets/branches-a.png)
 
@@ -54,13 +54,13 @@ Before we go any further, let's talk about branch naming conventions. Branch nam
 - `test/`: Used for adding or modifying tests.
 - `chore/`: Used for miscellaneous tasks or maintenance.
 
-By following a consistent naming convention, you can easily identify the purpose of each branch and maintain a clean and organized codebase. 
+By following a consistent naming convention, you can easily identify the purpose of each branch and maintain a clean and organized codebase.
 
 > 🧠 Branches like `feature/sign-in`, `bugfix/home-page-error`, and `refactor/cat-show-component` are using the naming convention to the fullest potential.
 
 ## Parrallel Universe - Branches
 
-When we forked and cloned down our partners repository we were given a `main` branch by default. Then `main` branch will always be present in a repository. And when we used the `git branch feature/new-feature-one` command we created another branch using the `main` branch as a starting point. This means that all the files and code that are in the `main` branch are also in the `feature/new-feature-one` branch. Let's open up our repository with VSCode and take a look at the branches in action. In your terminal, navigate to the repository directory and run the following commands:
+When we forked and cloned down our partner's repository we were given a `main` branch by default. Then `main` branch will always be present in a repository. And when we used the `git branch feature/new-feature-one` command we created another branch using the `main` branch as a starting point. This means that all the files and code that are in the `main` branch are also in the `feature/new-feature-one` branch. Let's open up our repository in VSCode and take a look at the branches in action. In your terminal, navigate to the repository directory and run the following commands:
 
 ```bash
 git checkout feature/new-feature-one
@@ -80,7 +80,7 @@ git add .
 git commit -m "Added parallel universe file"
 ```
 
-Now checkout to the `main` branch and take a look at the file again. 
+Now checkout to the `main` branch and take a look at the file again.
 
 ```bash
 git checkout main
@@ -96,11 +96,11 @@ git checkout feature/new-feature-one
 
 The file is back! 🎉
 
-> You can switch between the branches as many times as you want. The changes you make in one branch will not affect the other branches.
+> You can switch between the branches as many times as you want. You'll just need to commit any changes you wish to save on your current branch, before switching to a new one. The changes you make in one branch will not affect the other branches.
 
 ## Remote Vs. Local Branches
 
-As of right now everything we have done is locally on our machine. On GitHub, we have a remote repository that we forked and cloned. When we created the `feature/new-feature-one` branch we created a local branch. This means that the branch only exists on our machine. To make the branch available on GitHub we need to push the branch to the remote repository. Let's do that now. In our terminal run the following command:
+As of right now everything we have done is locally on our machine. On GitHub, we have a remote repository that we forked and cloned. When we created the `feature/new-feature-one` branch we created a local branch. This means that the branch only exists on our machine. To make the branch available on GitHub we need to push the branch to the remote repository. Let's do that now. In your terminal, run the following command:
 
 ```bash
 git push origin feature/new-feature-one
@@ -113,4 +113,4 @@ The `git push` command takes two arguments:
 
 > The `origin` is the default name for the remote repository. When you clone a repository, Git automatically creates a remote called `origin` that points to the original repository on GitHub. We will be looking at how to change or add remote repository locations in a later lesson.
 
-Now if you go to the repository on GitHub and click on the `main` branch you will see that there is a `feature/new-feature-one` branch.
+Now if you go to the repository on GitHub you will see that there is also a `feature/new-feature-one` branch.

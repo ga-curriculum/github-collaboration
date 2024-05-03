@@ -6,7 +6,7 @@ Merging is the process of combining changes from one branch into another. When y
 
 ## Merging Remotely
 
-Merging branches remotely is done through a pull request. Which is advantageous because we just so happen to have a pull request ready to go. When we merge remotely, we are going to be using the GitHub website. Navigate to the pull request you created in the previous lesson. 
+Merging branches remotely is done through a pull request. Which is advantageous because we just so happen to have a pull request ready to go. When we merge remotely, we are going to be using the GitHub website. Navigate to the pull request you created in the previous lesson.
 
 This pull request page will have a lot of information on it that is important to understand:
 
@@ -19,7 +19,7 @@ This pull request page will have a lot of information on it that is important to
 
 Down near the bottom of the page is the `Merge pull request` button. When you click on this button, GitHub will merge the changes from the compare branch into the base branch. That's it! You have merged the changes remotely. 🎉
 
-But wait there's more! In all seriousness, there is one more action we need to take after we merge remotely. We need to pull the changes down to our local machine. If we were working with our own repository it would be as simple as running the following command in the terminal:
+But wait there's more! There is one more action we need to take after we merge remotely. We need to pull the changes down to our local machine. If we were working with our own repository it would be as simple as running the following command in the terminal:
 
 ```bash
 git pull origin main
@@ -37,7 +37,7 @@ This action will add another remote location we can pull changes from. Now we ca
 git pull upstream main
 ```
 
-Remeber we have to do this because when we created the pull request we we merged the changes into the original repository. While we made and pushed the changes to our our forked repository through a feature branch, the changes were merged into the `main` branch of the original repository.
+Remember we have to do this because when we created the pull request we we merged the changes into the original repository. While we made and pushed the changes to our our forked repository through a feature branch, the changes were merged into the `main` branch of the original repository.
 
 **When to Merge Remotely**
 
@@ -66,7 +66,9 @@ A merge conflict will always be broken down into the following parts:
 - **Incoming Changes** - This is the changes that are coming in from the compare branch.
 - **Current Changes** - This is the changes that are currently in the base branch.
 
-The incoming changes will always be between the `<<<<<<< HEAD` and `=======` conflict markers. The current changes will always be between the `=======` and `>>>>>>> compare-branch` conflict markers.
+The incoming changes will always be between the `<<<<<<< HEAD` and `=======` conflict markers. 
+
+The current changes will always be between the `=======` and `>>>>>>> compare-branch` conflict markers.
 
 To resolve any conflicts, take a look at the contents of the file and decide which changes you want to keep. In some cases, you may want to keep both changes. Once you have decided on the changes, remove the conflict markers you:
 

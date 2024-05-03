@@ -2,26 +2,23 @@
 
 ## About
 
-In this module, students will learn how to collaborate with others on a single github project. They will learn the basics of forking and cloning, working with branches, managing pull requests, merging and merge conflicts. 
+In this module, students will master GitHub collaboration techniques essential for contributing to team projects. They will learn the basics of forking and cloning repositories, managing branches, handling pull requests, and resolving merge conflicts. By the end of this module, students will be proficient in using GitHub to efficiently collaborate and contribute to shared projects.
 
 ## Prerequisites
 
-- Intro to React
-- Building Your First React App
-- User Events in React
+- Intro to Git and GitHub
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md) | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md) | -- | -- | Why GitHub is used to collaborate across large projects or organizations |
-| [Forking and Cloning](./forking-and-cloning/README.md) | -- | -- | Fork and clone a repository from GitHub |
-| [Branching and Working with Branches](./branching-and-working-with-branches/README.md) | -- | -- | Add and view remote repositories on local repositories |
-| [Pull Requests](./pull-requests/README.md) | -- | -- | Submit pull requests |
-| [Merging and Merge Conflicts](./merging-and-merge-conflicts/README.md) | -- | -- | Handle merge conflicts |
-| [Working with a Team](./working-with-a-team/README.md) | -- | -- | Strategies to work well as a team |
-| **Total content** | -- | -- | |
+| Lesson                                                                                 | Skills                                                                   |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Setup](./setup/README.md)                                                             | Setting up the development environment                                   |
+| [Concepts](./concepts/README.md)                                                       | Why GitHub is used to collaborate across large projects or organizations |
+| [Forking and Cloning](./forking-and-cloning/README.md)                                 | Fork and clone a repository from GitHub                                  |
+| [Branching and Working with Branches](./branching-and-working-with-branches/README.md) | Add and view remote repositories on local repositories                   |
+| [Pull Requests](./pull-requests/README.md)                                             | Submit pull requests                                                     |
+| [Merging and Merge Conflicts](./merging-and-merge-conflicts/README.md)                 | Handle merge conflicts                                                   |
+| [Working with a Team](./working-with-a-team/README.md)                                 | Strategies to work well as a team                                        |
 
 ## References
 

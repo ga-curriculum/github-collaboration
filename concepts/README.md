@@ -1,6 +1,6 @@
 # ![GitHub Collaboration - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to explain why GitHub is used to collaborate across large projects or organizations
+**Learning objective:** By the end of this lesson, students will be able to explain why GitHub is used to collaborate across large projects or organizations.
 
 ## Collabarative Coding
 
@@ -14,7 +14,7 @@ Each of them writes their code independently, but their work needs to be integra
 
 ## Collabarative Coding on GitHub
 
-So far we have used Git and GitHub to manage our own work. However, Git and GitHub are also powerful tools for collaborating with others on a shared codebase. Let's take a high-level look at how collaborative coding works on GitHub. Before we dive completely into the world of collaborative coding on GitHub, it's important to know that GitHub is not the only platform for collaborative coding. There are other platforms like GitLab and Bitbucket that offer similar features. However, GitHub is the most popular platform for open-source projects and has a large community of developers.
+So far we have used Git and GitHub to manage our own work. However, Git and GitHub are also powerful tools for collaborating with others on a shared codebase. Let's take a high-level look at how collaborative coding works on GitHub. Before we dive in it's important to know that GitHub is not the only platform for collaborative development. There are other platforms like [GitLab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) that offer similar features. However, GitHub is the most popular platform for open-source projects and has a large community of developers.
 
 **So, why GitHub?**
 
