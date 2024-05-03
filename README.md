@@ -1,4 +1,4 @@
-# ![Github Collaboration](./assets/tktk-hero.png)
+# ![GitHub Collaboration](./assets/hero.png)
 
 ## About
 

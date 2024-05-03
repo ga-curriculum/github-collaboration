@@ -6,15 +6,13 @@ We've forked and cloned a repository, and now we're ready to start working on it
 
 Imagine you have a single code base. It's a full CRUD application that is deployed and people have been interacting with it through the web. You want to add a new feature, but you're not sure if it will work. You don't want to break the main codebase, so you **create** and **checkout** to a new branch. 
 
-tktk Hunter - Can you make this pretty?
-![](./assets/tktk-checkout-branch.png)
+![Branches](./assets/branches-a.png)
 
 > 🧠 Branching is like creating a parallel universe where you can experiment with new features, fix bugs, or refactor code without affecting the main codebase.
 
 Branching can also be used to collaborate with others on a shared codebase. Each developer can work on a separate branch, making changes and testing new features independently. Once the changes are complete, they can be merged back into the main codebase through a pull request.
 
-tktk Hunter - Can you make this pretty?
-![](./assets/tktk-colab-branching.png)
+![Collaborating with branches](./assets/branches-b.png)
 
 > 📖 We will talk about merging and pull requests in the next lessons.
 

@@ -6,13 +6,11 @@
 
 Let's say you are working on a project with a team of developers. Each developer is responsible for a different part of the project. Alice is working on the front-end, Sarah is working on the back-end, and Mary is working on the database.
 
-tktk Hunter - Can you make this pretty? :)
-![](./assets/tktk-colab-setup.png)
+![Collabarative coding diagram](./assets/group-collab-a.png)
 
 Each of them writes their code independently, but their work needs to be integrated to create a functional application. How do you ensure that everyone's work is integrated seamlessly? This is where collaborative coding comes in. Collaborative coding is the practice of multiple developers working together on a shared codebase. It involves using tools like Git and GitHub to manage changes, track versions, and merge contributions from different team members.
 
-tktk Hunter - Can you also make this one pretty?
-![](./assets/tktk-colab-push.png)
+![Collabarative coding diagram](./assets/group-collab-b.png)
 
 ## Collabarative Coding on GitHub
 
