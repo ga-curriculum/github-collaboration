@@ -10,8 +10,7 @@ Forking and cloning are essential Git operations that allow you to copy a reposi
 
 Forking a repository, commonly known as *"forking a repo"*, is the process of creating a personal copy of someone else's project on GitHub. This allows you to freely experiment with changes without affecting the original project. Essentially, a fork is a snapshot of the original repository at the time you perform the fork operation.
 
-tktk Hunter - Can you make this pretty?
-![](./assets/tktk-forking.png)
+![Fork diagram](./assets/fork.png)
 
 > Think of repositories as folders. Forking is like making a copy of a folder on your computer. You can make changes to the copy without affecting the original folder. Forking is a powerful feature that enables not only collabroation but also experimentation and learning.
 
@@ -21,8 +20,7 @@ tktk Hunter - Can you make this pretty?
 
 2. **Click the 'Fork' Button**: Located usually at the top-right corner of the repository's page, clicking this button will create a copy of the repository in your GitHub account.
 
-tktk Hunter - this is the screen shot from the old content. 
-![ASSET](./assets/fork.png)
+![Screenshot](./assets/fork-screenshot.png)
 
 3. **Choose where you want to create the fork**: Usually your personal account.
 
@@ -32,12 +30,9 @@ That's it! 🎉 Now let's clone it down.
 
 Cloning a forked repository involves creating a local copy of a repository that you've previously forked from someone else's project on GitHub. Once a repository is forked to your GitHub account, it still lives in the cloud. Cloning that forked repository downloads it onto your local machine, enabling you to work on the project locally in vscode.
 
-tktk Hunter - Can you make this pretty?
-![](./assets/tktk-clone.png)
+![Fork & clone diagram](./assets/fork-clone.png)
 
 1. **Find the Repository URL**: Navigate to your forked repository on GitHub. Locate the "Code" button and copy the URL displayed. This URL is used by Git to clone the repository.
-
-![ASSET](./assets/code.png)
 
 2. **Open Terminal**: Open the terminal on your local machine and navigate to the folder where you want to store the cloned repository.
 
