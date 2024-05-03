@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![GitHub Collaboration - Working with a Team](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 

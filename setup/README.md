@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Setup](./assets/hero.png)
+# ![GitHub Collaboration - Setup](./assets/hero.png)
 
 ## Setup
 

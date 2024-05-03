@@ -1,3 +1,3 @@
-# ![[tktk Module Name]](../assets/tktk-hero.png)
+# ![GitHub Collaboration](../assets/hero.png)
 
 [COMING SOON]
