@@ -8,22 +8,20 @@ Let's say you are working on a project with a team of developers. Each developer
 
 ![Collabarative coding diagram](./assets/group-collab-a.png)
 
-Each of them writes their code independently, but their work needs to be integrated to create a functional application. How do you ensure that everyone's work is integrated seamlessly? This is where collaborative coding comes in. Collaborative coding is the practice of multiple developers working together on a shared codebase. It involves using tools like Git and GitHub to manage changes, track versions, and merge contributions from different team members.
+Each developer will write code independently, but their work needs to be integrated in a single place to create a functional application. How do you ensure that everyone's work is integrated seamlessly? This is where collaborative coding comes in. Collaborative coding involves multiple developers working together on a shared codebase. When developers collaborate on code, they use tools like Git and GitHub to manage changes, track versions, and merge contributions from different team members.
 
 ![Collabarative coding diagram](./assets/group-collab-b.png)
 
-## Collabarative Coding on GitHub
+## Collaborative Coding on GitHub
 
-So far we have used Git and GitHub to manage our own work. However, Git and GitHub are also powerful tools for collaborating with others on a shared codebase. Let's take a high-level look at how collaborative coding works on GitHub. Before we dive in it's important to know that GitHub is not the only platform for collaborative development. There are other platforms like [GitLab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) that offer similar features. However, GitHub is the most popular platform for open-source projects and has a large community of developers.
+Before now, we have used Git and GitHub to manage our own work. However, Git and GitHub are also powerful and popular tools for collaborating with others on a shared codebase. GitHub's popularity as a version control platform can be attributed to several key features:
 
-**So, why GitHub?**
+- **Early adoption and network effect**: GitHub was one of the first platforms to offer a user-friendly interface for Git. Because of this, its user base grew rapidly, making it the go-to platform for many developers.
+- **User-friendly interface**: GitHub's intuitive interface makes it easier for developers to manage repositories, track changes, and collaborate with others.
+- **Integration with other tools**: GitHub integrates with a wide range of tools and services, making it easy to automate workflows and speed up the development processes.
+- **Community and collaboration**: GitHub's large community of developers and open-source projects enables collaboration and knowledge sharing. As the community grows, this effect feeds into itself.
+- **Visibility and discoverability**: Public repositories allow developers to showcase their work, contribute to open-source projects, and build a portfolio of work.
 
-GitHub's popularity as a version control platform can be attributed to several key features:
+### Other collaborative coding platforms
 
-- **Early Adoption and Network Effect:** GitHub was one of the first platforms to offer a user-friendly interface for Git. Its early adoption and large user base have made it the go-to platform for many developers.
-- **User-Friendly Interface:** GitHub's intuitive interface makes it easy for developers to manage repositories, track changes, and collaborate with others.
-- **Intergration with Other Tools:** GitHub integrates with a wide range of tools and services, making it easy to automate workflows and streamline development processes.
-- **Community and Collaboration:** GitHub's large community of developers and open-source projects fosters collaboration, knowledge sharing, and innovation.
-- **Visibility and Discoverability:** GitHub's public repositories allow developers to showcase their work, contribute to open-source projects, and build a portfolio of projects.
-
-During this lesson we are going to deep dive into using GitHub for collaborative coding.
+GitHub is not the only platform for collaborative development. Other platforms, like [GitLab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/), offer similar features. However, GitHub is the most popular platform for open-source projects and has a large community of developers.

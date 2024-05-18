@@ -6,15 +6,22 @@ In this module, students will practice GitHub collaboration techniques essential
 
 ## Content
 
-| Lesson                                                                                  | Skills                                                                   |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Setup](../setup/README.md)                                                             | Setting up the development environment                                   |
-| [Concepts](../concepts/README.md)                                                       | Why GitHub is used to collaborate across large projects or organizations |
-| [Forking and Cloning](../forking-and-cloning/README.md)                                 | Fork and clone a repository from GitHub                                  |
-| [Branching and Working with Branches](../branching-and-working-with-branches/README.md) | Add and view remote repositories on local repositories                   |
-| [Pull Requests](../pull-requests/README.md)                                             | Submit pull requests                                                     |
-| [Merging and Merge Conflicts](../merging-and-merge-conflicts/README.md)                 | Handle merge conflicts                                                   |
-| [Working with a Team](../working-with-a-team/README.md)                                 | Strategies to work well as a team                                        |
+| Lesson                                                                                            | Skills                                                            |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Concepts](../concepts/README.md)                                                                 | Understand why GitHub is used to collaborate.                     |
+| [Collaborator Method - Setup](../collaborator-method-setup/README.md)                             | Set up the development environment.                               |
+| [Collaborator Method - Add Collaborators](../collaborator-method-add-collaborators/README.md)     | Add collaborators to a GitHub repo.                               |
+| [Collaborator Method - Branching](../collaborator-method-branching/README.md)                     | Add and view remote repositories on local repositories.           |
+| [Collaborator Method - Pull Requests](../collaborator-method-pull-requests/README.md)             | Submit pull requests.                                             |
+| [Collaborator Method - Merging](../collaborator-method-merging/README.md)                         | Merge pull requests.                                              |
+| [Collaborator Method - Merge Conflicts](../collaborator-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
+| [Collaborator Method - Working with a Team](../collaborator-method-working-with-a-team/README.md) | Strategies to work well as a team, including a practice exercise. |
+
+## Level Up
+
+| Lesson | Skills |
+| ------ | ------ |
+| [Branch Naming Conventions](../branch-naming-conventions/README.md) | Work with standardized branch naming strategies to better track the details of the work in a branch. |
 
 ## References
 
