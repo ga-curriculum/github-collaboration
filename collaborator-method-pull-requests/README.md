@@ -33,7 +33,9 @@ You should arrive at a page similar to the one shown below.
 
 ![Screenshot of the GitHub 'Compare changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The page allows users to compare changes across branches, commits, tags, and more. The user can select a base branch and a comparison branch from dropdown menus.](./assets/github-compare.png)
 
-### Comparing changes
+### Comparing changes (***GitHub managers*** and ***programmers***)
+
+> ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
 When you navigate to the pull request page, you will see the `Comparing changes` section. This section is where you will select the branches you want to compare. Two dropdowns in this section allow you to choose the base branch and the compare branch.
 
@@ -52,7 +54,9 @@ After selecting a branch, you'll see the changes made if the pull request is mer
 
 ![Screenshot of the GitHub 'Comparing changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The comparison is between the 'main' branch and the 'ga-student/new-feature' branch. The page shows that the branches are 'Able to merge' and the 'Create pull request' button is outlined in red. Below, there is a section displaying '1 commit' and '1 file changed' with '1 addition and 0 deletions.'.](./assets/github-compare-and-pull.png)
 
-### Open a pull request
+### Open a pull request (***GitHub managers*** and ***programmers***)
+
+> ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
 You'll be taken to a new page where you can open your pull request. Here, you will give your pull request a title and brief summary.
 

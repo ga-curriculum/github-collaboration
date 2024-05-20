@@ -97,7 +97,9 @@ However, none of the other pull requests can be merged after the first pull requ
 
 Before the branch can be merged, these conflicts must be resolved.
 
-## Fixing merge conflicts
+## Fixing merge conflicts (***GitHub managers*** and ***programmers***)
+
+> ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
 So what now? Who's responsibility is it to fix merge conflicts?
 

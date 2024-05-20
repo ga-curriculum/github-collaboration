@@ -34,6 +34,7 @@ After you've completed that, move into one of the methods below.
 | [Collaborator Method - Merging](./collaborator-method-merging/README.md)                         | Merge pull requests.                                              |
 | [Collaborator Method - Merge Conflicts](./collaborator-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
 | [Collaborator Method - Working with a Team](./collaborator-method-working-with-a-team/README.md) | Strategies to work well as a team, including a practice exercise. |
+| [Collaborator Method - Cheat Sheet](./collaborator-method-cheat-sheet/README.md)                 | A cheat sheet for the commands covered in this content.           |
 
 ### Fork method
 

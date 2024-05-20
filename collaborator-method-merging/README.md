@@ -6,7 +6,7 @@
 
 Merging is the process of combining changes from one branch into another. When you merge branches, Git will automatically determine the best way to combine the changes. However, sometimes, Git cannot automatically merge the changes, resulting in a merge conflict. In this section, we will look at merging locally and remotely.
 
-## Merging remotely (***GitHub manager***)
+## Merging remotely (***GitHub managers***)
 
 > ⚠️ Only ***GitHub managers*** should complete this task. ***Technically***, any collaborator on the repository can complete this task, but many teams find it best to have one person in charge of this work to ensure a consistent experience.
 
