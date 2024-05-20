@@ -51,8 +51,8 @@ After you've completed that, move into one of the methods below.
 
 | Lesson | Skills |
 | ------ | ------ |
-| [Branch Naming Conventions](./branch-naming-conventions/README.md)               | Work with standardized branch naming strategies to better track the details of the work in a branch. |
 | [Collaborator Method - Cheat Sheet](./collaborator-method-cheat-sheet/README.md) | A cheat sheet for the commands covered in the collaborator method content.                           |
+| [Branch Naming Conventions](./branch-naming-conventions/README.md)               | Work with standardized branch naming strategies to better track the details of the work in a branch. |
 
 ## References
 
