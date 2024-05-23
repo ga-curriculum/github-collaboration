@@ -1,6 +1,6 @@
 # ![GitHub Collaboration - Collaborator Method - Branching](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to add and view remote repositories on local repositories.
+**Learning objective:** By the end of this lesson, students will be able to create and work in branches.
 
 ## Branching
 
@@ -38,7 +38,7 @@ You should see a list of branches (the only branch currently is the `main` branc
 
 Hit the `q` key to exit this view.
 
-Let's create a new branch on the repository we cloned in the previous lesson. In your terminal, make sure you are in the forked and cloned repository directory, then modify the below command and run it:
+Let's create a new branch on the repository we cloned in the previous lesson. Modify the below command and run it in your terminal:
 
 ```bash
 git branch <identifier>/new-feature
@@ -54,7 +54,7 @@ This command creates a new `<identifier>/new-feature` branch. Note that we separ
 
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
-> 🚨 When collaborating you will ***not*** write code in the `main` branch of a repsitory, ever. You will still interact with the main branch, but you will not write code there.
+> 🚨 When collaborating you will ***not*** write code in the `main` branch of a repsitory, ever. You will still interact with the `main` branch, but you will not write code there.
 
 Let's view the list of branches to confirm that the new branch was created:
 
@@ -131,7 +131,7 @@ The file is back! 🎉
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
-Currently, everything we have done is locally on our machine. On GitHub, we have a remote repository that we forked and cloned. When we created the `<identifier>/new-feature` branch, we created a local branch. This means that the branch only exists on our machine.
+Currently, everything we have done is locally on our machine. On GitHub, we have a remote repository that we cloned. When we created the `<identifier>/new-feature` branch, we created a local branch. This means that the branch only exists on our machine.
 
 We need to push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command:
 

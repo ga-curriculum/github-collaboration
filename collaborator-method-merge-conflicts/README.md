@@ -1,4 +1,4 @@
-# ![GitHub Collaboration - Collaborator Method - Merging](./assets/hero.png)
+# ![GitHub Collaboration - Collaborator Method - Merge Conflicts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to merge branches and handle merge conflicts.
 
@@ -79,7 +79,9 @@ Push the newly created branch to the remote repository:
 git push origin <identifier>/merge-conflicts
 ```
 
-### Create a pull request
+## Create a pull request (***GitHub managers*** and ***programmers***)
+
+> ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
 Refer to the previous **Pull Requests** lecture to help you create a pull request. Use the branch you just pushed as the compare branch and the main branch as the base branch.
 
@@ -178,7 +180,7 @@ To resolve any conflicts, look at the file's contents and decide which changes y
 
 > 🚨 Be cautious about the changes made here - sometimes, this process can introduce bugs into your code that you will have to manually resolve!
 
-After you've resolved the merge conflict, you should add, commit, and push the branch to GitHub. You should now be able to merge the pull request!
+After you've resolved the merge conflict, you should add, commit, and push the branch to GitHub. The GitHub manager should now be able to merge the pull request!
 
 ![We can now merge the pull request we made on GitHub earlier!](./assets/github-pr-conflicts-resolved.png)
 

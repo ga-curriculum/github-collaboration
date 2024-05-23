@@ -6,8 +6,8 @@ In this module, students will practice GitHub collaboration techniques essential
 
 ## Content
 
-| Lesson                                                                                            | Skills                                                            |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Lesson | Skills |
+| ------ | ------ |
 | [Concepts](../concepts/README.md)                                                                 | Understand why GitHub is used to collaborate.                     |
 | [Collaborator Method - Setup](../collaborator-method-setup/README.md)                             | Set up the development environment.                               |
 | [Collaborator Method - Add Collaborators](../collaborator-method-add-collaborators/README.md)     | Add collaborators to a GitHub repo.                               |

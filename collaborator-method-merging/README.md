@@ -56,7 +56,7 @@ There is one more action we need to take after we merge the pull request. Everyo
 
 > 🧠 Everyone on the team should do this after each merge to the `main` branch on the GitHub repo. This will take some adjustment, but it's the best way to ensure you're working with the newest possible code and will also help reduce the chances of submitting a pull request that contains merge conflicts.
 
-First, return to your terminal application. If you're have uncommitted work in a feature branch, commit your work first:
+First, return to your terminal in VS Code. If you have uncommitted work in a feature branch, commit your work first:
 
 ```bash
 git add -A

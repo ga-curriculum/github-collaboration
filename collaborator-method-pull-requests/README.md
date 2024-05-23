@@ -6,7 +6,7 @@
 
 Pull requests (often abbreviated as PRs) allow developers to propose changes to a branch in a repository on GitHub. They are a way to review code and discuss changes before merging them into the main codebase. Pull requests are a central component of collaboration and allow developers to contribute their code to a larger project.
 
-After pushing your code to a branch on GitHub (as we've already done), the next step to integrate it into the `main` branch is to create a pull request.
+After pushing your code to a branch on GitHub (as we've already done), the next step is to integrate it into the `main` branch by creating a pull request.
 
 ## Creating a pull request (***GitHub managers*** and ***programmers***)
 
@@ -54,7 +54,7 @@ After selecting a branch, you'll see the changes made if the pull request is mer
 
 ![Screenshot of the GitHub 'Comparing changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The comparison is between the 'main' branch and the 'ga-student/new-feature' branch. The page shows that the branches are 'Able to merge' and the 'Create pull request' button is outlined in red. Below, there is a section displaying '1 commit' and '1 file changed' with '1 addition and 0 deletions.'.](./assets/github-compare-and-pull.png)
 
-### Open a pull request (***GitHub managers*** and ***programmers***)
+## Open a pull request (***GitHub managers*** and ***programmers***)
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
@@ -64,7 +64,7 @@ You'll be taken to a new page where you can open your pull request. Here, you wi
 
 2. **Description**: Detail the changes your code will make here. This will help the reviewer understand what changes you made and why you made them.
 
-After setting up the title and description and selecting the branches you want to compare, select the **Create pull request** button as outlined in red below. This will create the pull request and take you to the pull request page.
+After setting up the title and description, select the **Create pull request** button as outlined in red below. This will create the pull request and take you to the pull request page.
 
 ![Screenshot of the 'Open a pull request' page on GitHub. The page shows a comparison between the 'main' branch and 'ga-student/new-feature' branch, with a message indicating 'Able to merge'. A green 'Create pull request' button is outlined in red.](./assets/github-create-pr.png)
 

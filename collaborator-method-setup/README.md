@@ -13,17 +13,17 @@ Programmers will not manage the GitHub repo for the project but will contribute 
 
 GitHub managers will manage the project's GitHub repo while also contributing their own code to the repo.
 
-For this activity, you should designate a single GitHub manager. This will help maintain clear division of labor and avoid confusion about who is responsible for what task. Any other collaborators will fill the programmer role. In a larger project, you may designate multiple GitHub managers.
+For this activity, you should designate a single GitHub manager. This will help maintain a clear division of labor and avoid confusion about who is responsible for what task. Any other collaborators will fill the programmer role. In a larger project, you may designate multiple GitHub managers.
 
-### Create a GitHub repository (***GitHub manager***)
+### Create a GitHub repository (***GitHub managers***)
 
 > ⚠️ Only ***GitHub managers*** should complete this task.
 
-Create a new ***public*** repository on [GitHub](https://github.com/) named `github-collaboration`. ***Important***: as you're creating it initialize the repository by adding a README file.
+Create a new ***public*** repository on [GitHub](https://github.com/) named `github-collaboration`. ***Important***: as you create it, initialize the repository by adding a README file.
 
 Do not clone this repository.
 
-### Send the GitHub manager your GitHub username (***programmer***)
+### Send the GitHub manager your GitHub username (***programmers***)
 
 > ⚠️ Only ***programmers*** should complete this task.
 
