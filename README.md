@@ -29,7 +29,7 @@ After you've completed that, move into one of the methods below.
 | ------ | ------ |
 | [Collaborator Method - Setup](./collaborator-method-setup/README.md)                             | Set up the development environment.                               |
 | [Collaborator Method - Add Collaborators](./collaborator-method-add-collaborators/README.md)     | Add collaborators to a GitHub repo.                               |
-| [Collaborator Method - Branching](./collaborator-method-branching/README.md)                     | Work and contribute code in branches.                             |
+| [Collaborator Method - Branching](./collaborator-method-branching/README.md)                     | Work and write code in branches.                                  |
 | [Collaborator Method - Pull Requests](./collaborator-method-pull-requests/README.md)             | Submit pull requests.                                             |
 | [Collaborator Method - Merging](./collaborator-method-merging/README.md)                         | Merge pull requests.                                              |
 | [Collaborator Method - Merge Conflicts](./collaborator-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
@@ -41,7 +41,7 @@ After you've completed that, move into one of the methods below.
 | ------ | ------ |
 | [Fork Method - Setup](./fork-method-setup/README.md)                     | Setting up the development environment.                           |
 | [Fork Method - Forking](./fork-method-forking/README.md)                 | Fork and clone a repository from GitHub.                          |
-| [Fork Method - Branching](./fork-method-branching/README.md)             | Work and contribute code in branches.                             |
+| [Fork Method - Branching](./fork-method-branching/README.md)             | Work and write code in branches.                                  |
 | [Fork Method - Pull Requests](./fork-method-pull-requests/README.md)     | Submit pull requests.                                             |
 | [Fork Method - Merging](./fork-method-merging/README.md)                 | Merge pull requests.                                              |
 | [Fork Method - Merge Conflicts](./fork-method-merge-conflicts/README.md) | Handle merge conflicts.                                           |

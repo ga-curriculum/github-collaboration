@@ -11,7 +11,7 @@ In this module, students will practice GitHub collaboration techniques essential
 | [Concepts](../concepts/README.md)                                                                 | Understand why GitHub is used to collaborate.                     |
 | [Collaborator Method - Setup](../collaborator-method-setup/README.md)                             | Set up the development environment.                               |
 | [Collaborator Method - Add Collaborators](../collaborator-method-add-collaborators/README.md)     | Add collaborators to a GitHub repo.                               |
-| [Collaborator Method - Branching](../collaborator-method-branching/README.md)                     | Add and view remote repositories on local repositories.           |
+| [Collaborator Method - Branching](../collaborator-method-branching/README.md)                     | Work and write code in branches.                                  |
 | [Collaborator Method - Pull Requests](../collaborator-method-pull-requests/README.md)             | Submit pull requests.                                             |
 | [Collaborator Method - Merging](../collaborator-method-merging/README.md)                         | Merge pull requests.                                              |
 | [Collaborator Method - Merge Conflicts](../collaborator-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
