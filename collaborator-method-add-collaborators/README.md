@@ -16,7 +16,7 @@ Before you begin, you'll need the GitHub username of every programmer on your te
 
 On GitHub, navigate to the main page for the `github-collaboration` repo you created earlier.
 
-Navigate to the repository **Settings** tab as outlined in red below. If you can't see the **Settings** tab, select the **...** dropdown menu, then click **Settings**.
+Navigate to the repository **Settings** tab as outlined in red below. If you can't see the **Settings** tab, select the **...** dropdown menu, then select **Settings**.
 
 ![Screenshot of a GitHub repository page. The navigation bar at the top includes tabs - the 'Settings' tab is outlined in red.](./assets/repo-settings.png)
 
@@ -38,7 +38,7 @@ Select the username of the person you want to add as a collaborator from the lis
 
 ![Screenshot of the 'Collaborators' section in the 'Settings' tab of a GitHub repository. The main content area shows a modal for adding a collaborator to the repository. In the search field, 'ga-collaborator' is typed, and a result is highlighted and outlined in red.](./assets/repo-collaborators-search-results.png)
 
-Finally, click the **Add person to this repository** button outlined in red below (the name on the button will match the username of the person you want to add and will look different from the screenshot).
+Finally select the **Add person to this repository** button outlined in red below (the name on the button will match the username of the person you want to add and will look different from the screenshot).
 
 ![Screenshot of the 'Collaborators' section in the 'Settings' tab of a GitHub repository. The main content area shows a modal for adding a collaborator to the repository. The 'ga-collaborator' username is selected, and below it is a green button labeled 'Add ga-collaborator to this repository' which is outlined in red.](./assets/repo-collaborators-search-add.png)
 
@@ -50,7 +50,7 @@ Repeat this process to add people as collaborators to this repo until everyone o
 
 > ⚠️ Only ***programmers*** should complete this task.
 
-After your GitHub manager invites you as a collaborator on a repository, you will receive an email similar to the one shown below (check your spam/junk folder if you don't see it). Click the **View invitation** button outlined in red below.
+After your GitHub manager invites you as a collaborator on a repository, you will receive an email similar to the one shown below (check your spam/junk folder if you don't see it). Select the **View invitation** button outlined in red below.
 
 ![Email invitation from GitHub. The body of the email includes an invitation from @GA-Student to collaborate on the repository 'GA-Student/github-collaboration'. There is an option to accept or decline the invitation, with a link to view the invitation. The 'View invitation' button is outlined in red.](./assets/collaboration-invite-email.png)
 

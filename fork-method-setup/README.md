@@ -21,7 +21,9 @@ For this activity, you should designate a single GitHub manager. This will help 
 
 Create a new ***public*** repository on [GitHub](https://github.com/) named `github-collaboration`. ***Important***: as you create it, initialize the repository by adding a README file.
 
-Copy the URL to the repository you just made and distribute it to the programmers on your team.
+Through the rest of this lecture, we'll refer to this as the ***GitHub manager's remote repo***.
+
+Copy the URL to the ***GitHub manager's remote repo*** and distribute it to the programmers on your team.
 
 ## Clone the repo (***GitHub managers***)
 
@@ -33,11 +35,22 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Clone the `github-collaboration` repo you just created to your device.
+Clone the `github-collaboration` repo you just created to your device. Your GitHub username should be present in the URL used in the `git clone` command, like this:
 
-Enter the new `github-collaboration` directory, and open it in VS Code:
+```bash
+git clone https://github.com/<your-username>/github-collaboration.git
+```
+
+Replacing `<your-username>` (including the `<` and `>`) with your GitHub username.
+
+Enter the new `github-collaboration` directory. We'll refer to this as the ***GitHub manager's local repo***.
 
 ```bash
 cd github-collaboration
+```
+
+Finally, open it in VS Code:
+
+```bash
 code .
 ```

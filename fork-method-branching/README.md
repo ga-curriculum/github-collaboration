@@ -48,7 +48,7 @@ This command creates a new `new-feature` branch. Note that we separate words wit
 
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
-> 🚨 When collaborating you will ***not*** write code in the `main` branch of a repsitory, ever. You will still interact with the `main` branch, but you will not write code there.
+> 🚨 When collaborating, you will ***not*** write code in the `main` branch of a repository, ever. You will still interact with the `main` branch, but you will not write code there.
 
 Let's view the list of branches to confirm that the new branch was created:
 
@@ -63,10 +63,10 @@ Hit the `q` key to exit this view.
 To switch to the new branch, use the below `checkout` command after modifying it:
 
 ```bash
-git checkout <identifier>/new-feature
+git checkout new-feature
 ```
 
-If you use the `git branch` command again, you should see the asterisk next to the new branch, indicating that you are now on the new `<identifier>/new-feature` branch.
+If you use the `git branch` command again, you should see the asterisk next to the new branch, indicating that you are now on the new `new-feature` branch.
 
 Hit the `q` key to exit this view.
 
@@ -88,7 +88,7 @@ To review:
 
 Let's simulate what it will look like as you contribute code to a project.
 
-When we used the `git branch new-feature` command, we created another branch called `new-feature` using the `main` branch as a starting point.
+When we used the `git branch new-feature` command, we created a new branch called `new-feature`, using the `main` branch as a starting point.
 
 This means all the files and code in the `main` branch were duplicated into the `new-feature` branch. From now on, any code we write will ***only exist in this feature branch***. Let's demo this.
 
@@ -97,7 +97,7 @@ Create a new markdown file with a name of your choice. ***Important: ensure you 
 Stage and commit the changes:
 
 ```bash
-git add .
+git add -A
 git commit -m "add parallel universe file"
 ```
 
@@ -127,7 +127,7 @@ The file is back! 🎉
 
 Currently, everything we have done is locally on our machine. On GitHub, we have a remote repository that we forked and cloned. When we created the `new-feature` branch, we created a local branch. This means that the branch only exists on our machine.
 
-We need to push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command:
+We must push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command:
 
 ```bash
 git push origin new-feature
@@ -135,15 +135,15 @@ git push origin new-feature
 
 The `git push` command takes two arguments:
 
-- The remote repository (`origin`)
+- The remote repository (`origin`).
 - The branch you want to push (`new-feature`)
 
 > 💡 The `origin` is the default name for the remote repository. When you clone a repository, Git automatically creates a remote called `origin` that points to the original repository on GitHub.
 >
 > This has important implications:
 >
-> - The team member with the ***GitHub manager*** role will push to the original repo forked by the team members with the ***programmer*** role.
-> - The team members with the ***programmer*** role will push to the repo that was created on their accounts, forked from the ***GitHub manager's*** original repo.
+> - The team member with the ***GitHub manager*** role will push to the ***GitHub manager's remote repo*** (the repo forked from the team members with the ***programmer*** role).
+> - The team members with the ***programmer*** role will push to the ***programmer's remote repo*** on their accounts (remember, each programmer has their own remote repo belonging to them).
 
 Navigate to the GitHub `github-collaboration` repo in your account. The URL will look like: `https://github.com/<your-username>/github-collaboration`. `<your-username>` (including the `<` and `>`) should be replaced with your GitHub username.
 

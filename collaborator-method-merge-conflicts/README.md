@@ -32,7 +32,7 @@ This series of steps is the typical workflow when collaborating using Git and Gi
 
 Return to this project in VS Code and open the terminal.
 
-Start in your main branch if you're not already there:
+Start in your `main` branch if you're not already there:
 
 ```bash
 git checkout main
@@ -83,7 +83,7 @@ git push origin <identifier>/merge-conflicts
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
-Refer to the previous **Pull Requests** lecture to help you create a pull request. Use the branch you just pushed as the compare branch and the main branch as the base branch.
+Refer to the previous **Pull Requests** lecture to help you create a pull request. Use the branch you just pushed as the compare branch and the `main` branch as the base branch.
 
 ## Merge a pull request (***GitHub managers***)
 
@@ -153,7 +153,7 @@ The error message points out a merge conflict in the `merge-conflicts.md` file. 
 
 Before continuing, take a quick breather. Merge conflicts can be tricky to resolve. Take your time and make sure you understand the changes that are in conflict. Running `git status` along the way will show you the files with a merge conflict, along with the VS code user interface. This will help you keep track of the files you need to resolve.
 
-Before going any further, close any open file tabs in VS Code and run the `git status` command, and let's observe what we see.
+Before going any further, close any open file tabs in VS Codw, run the `git status` command, and let's observe what we see.
 
 ![The VS Code UI, using various methods to inform us of our conflicted code.](./assets/vs-code-conflicts.png)
 
@@ -165,7 +165,7 @@ Great, we identified where the problem lies; let's open the `merge-conflicts.md`
 
 ![The VS Code UI, giving us options to resolve our merge conflicts](./assets/vs-code-conflict-decision.png)
 
-VS Code is helping us here. There are buttons above line one that are shortcuts to resolving this conflict. We can quickly accept the current change, accept the incoming change, or accept both changes. You can also take a more nuanced approach and change the text directly to resolve the conflict manually.
+VS Code is helping us here. There are buttons above line 1 that are shortcuts to resolving this conflict. We can quickly accept the current change, accept the incoming change, or accept both changes. You can also take a more nuanced approach and change the text directly to resolve the conflict manually.
 
 A merge conflict will always be broken down into the following parts:
 
@@ -178,7 +178,7 @@ The current changes will always be between the `=======` and `>>>>>>> compare-br
 
 To resolve any conflicts, look at the file's contents and decide which changes you want to keep. In some cases, you may want to keep both changes. Once you have decided on the changes, remove the conflict markers.
 
-> 🚨 Be cautious about the changes made here - sometimes, this process can introduce bugs into your code that you will have to manually resolve!
+> 🚨 Be cautious about the changes made here - sometimes, this process can introduce bugs into your code that you must resolve manually!
 
 After you've resolved the merge conflict, you should add, commit, and push the branch to GitHub. The GitHub manager should now be able to merge the pull request!
 

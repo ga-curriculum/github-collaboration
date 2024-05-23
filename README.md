@@ -45,7 +45,7 @@ After you've completed that, move into one of the methods below.
 | [Fork Method - Pull Requests](./fork-method-pull-requests/README.md)     | Submit pull requests.                                             |
 | [Fork Method - Merging](./fork-method-merging/README.md)                 | Merge pull requests.                                              |
 | [Fork Method - Merge Conflicts](./fork-method-merge-conflicts/README.md) | Handle merge conflicts.                                           |
-| [Working with a Team](./working-with-a-team/README.md)                   | Strategies to work well as a team, including a practice exercise. |
+| [Fork Method - Working with a Team](./fork-method-working-with-a-team/README.md)                   | Strategies to work well as a team, including a practice exercise. |
 
 ## Level Up
 

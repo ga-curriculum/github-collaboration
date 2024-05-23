@@ -12,7 +12,7 @@ There are concrete actions you can take to help prevent merge conflicts from hap
 
 - Try to divide up work and communicate frequently so that no one changes the same file between merges. ***This is by far the best and easiest way to minimize merge conflicts.***
 - Make frequent and small commits and pull requests focused on specific features.
-- When you're notified that branches have been merged into the remote's `main` branch, immediately bring your local repository up to date so that you're working with the latest version of the code by following the steps in the previous **Merging** lesson.
+- When you're notified that branches have been merged into the ***GitHub manager's remote repo's*** `main` branch, immediately bring your ***local repo*** up to date so that you're working with the latest version of the code by following the steps in the previous **Merging** lesson.
 
 ## Create a merge conflict (***GitHub managers*** and ***programmers***)
 
@@ -20,11 +20,11 @@ There are concrete actions you can take to help prevent merge conflicts from hap
 
 Nothing we've done so far should have caused a merge conflict - ideally, everyone has been working in their own files and has communicated to avoid problems. So we'll need to create one. This will also be a good opportunity to practice the Git collaboration workflow. You will:
 
-- **Pull the most recent code from the `main` branch of the remote repo**: We've already done this! 🎉
-- **Create a new branch**: This allows you to work on a new feature without affecting the `main` branch.
+- **Ensure we have the most up-to-date code in our *local repository's* `main` branch**: We've already done this! 🎉
+- **Create a new branch in our *local repository***: This allows you to work on a new feature without affecting the `main` branch.
 - **Write and commit code**: Implement the desired feature.
-- **Push the branch to GitHub**: After you've completed your work, commit your code and push the branch to GitHub.
-- **Create a pull request**: Allowing you to submit your changes into the `main` branch of the remote repository.
+- **Push the branch to *your remote repo***: After you've completed your work, commit your code and push the branch to GitHub.
+- **Create a pull request**: Allowing you to submit your changes into the `main` branch of the ***GitHub manager's remote repo***.
 
 This series of steps is the typical workflow when collaborating using Git and GitHub. You will do these steps over and over again as you implement new features into an application.
 
@@ -32,7 +32,7 @@ This series of steps is the typical workflow when collaborating using Git and Gi
 
 Return to this project in VS Code and open the terminal.
 
-Start in your main branch if you're not already there:
+Start in your `main` branch if you're not already there:
 
 ```bash
 git checkout main
@@ -71,7 +71,7 @@ git commit -m "add merge conflicts file"
 
 ### Push the branch to GitHub
 
-Push the newly created branch to the remote repository:
+Push the newly created branch to ***your remote repository***:
 
 ```bash
 git push origin merge-conflicts
@@ -81,7 +81,7 @@ git push origin merge-conflicts
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
-Refer to the previous **Pull Requests** lecture to help you create a pull request. Use the branch you just pushed as the compare branch and the main branch as the base branch.
+Refer to the previous **Pull Requests** lecture to help you create a pull request. Use the branch you just pushed as the compare branch and the `main` branch as the base branch.
 
 ## Merge a pull request (***GitHub managers***)
 
@@ -109,7 +109,7 @@ While conflicts can often be resolved in the browser by the GitHub manager, it i
 
 Follow the steps below to resolve each merge conflict, one team member at a time, until every remaining pull request is merged.
 
-The steps to accomplish this will be slightly different if you are the ***GitHub manager*** or a ***programmer***. If you are a ***GitHub manager***, continue on to the **Merging (*GitHub managers*)** section below. If you are a ***programmer***, continue on to the **Merging (*programmers*)** section below.
+The steps to accomplish this will be slightly different if you are the ***GitHub manager*** or a ***programmer***. If you are a ***GitHub manager***, continue to the **Merging (*GitHub managers*)** section below. If you are a ***programmer***, skip to the **Merging (*programmers*)** section below.
 
 ### Merging (***GitHub managers***)
 
@@ -128,7 +128,7 @@ Checkout the `main` branch:
 git checkout main
 ```
 
-Then, pull the code from the `main` branch of the remote repo:
+Then, pull the code from the `main` branch of the ***GitHub manager's remote repo***:
 
 ```bash
 git pull origin main
@@ -140,23 +140,21 @@ Skip to the **Next steps** section below.
 
 > ⚠️ Only ***programmers*** should complete this task.
 
-Like many Git actions there are many ways to get the code from your GitHub manager's GitHub repo to your local repo, this method ensures that both your remote and local `main` branches stay current.
+Navigate to your fork of the repo on GitHub (the ***programmer's remote repo***). It should be at this URL: `https://github.com/<your-username>/github-collaboration`.
 
-Navigate to your fork of the repo on GitHub. It should be at this URL: `https://github.com/<your-username>/github-collaboration`.
+> 🚨 Replace `<your-username>` (including the `<` and `>`) with your GitHub username.
 
-Replacing `<your-username>` (including the `<` and `>`) with your GitHub username.
+If the `main` branch of your remote repo isn't up to date, you should see a section like the one outlined in red below. This indicates the `main` branch of your ***programmer's remote repo*** is out of date compared to the `main` branch of the ***GitHub manager's remote repo***:
 
-If the `main` branch of your remote repo isn't up to date you should see a section like the one outlined in red below. This indicates the `main` branch of your remote repo is out of date compared to the `main` branch of your GitHub manager's remote repo:
-
-![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The outlined section shows that the repository is forked from 'GA-Student/github-collaboration' and that it is 2 commits behind the main repository.](./assets/github-stale-fork.png)
+![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The outlined section shows that the repository is forked from 'GA-Student/github-collaboration' and that it is 2 commits behind the main repository.](../fork-method-merging/assets/github-stale-fork.png)
 
 Bring it up to date by selecting the **Sync fork** button, followed by the **Update branch** button.
 
-![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The 'Sync fork' button is outlined in red, along with the 'Update branch' button inside the dropdown.](./assets/github-stale-fork-update.png)
+![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The 'Sync fork' button is outlined in red, along with the 'Update branch' button inside the dropdown.](../fork-method-merging/assets/github-stale-fork-update.png)
 
-After a moment, the fork should update and indicate that it is now current as shown below.
+After a moment, the fork should update and indicate that it is up to date, as shown below.
 
-![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The outlined section shows that the repository is forked from 'GA-Student/github-collaboration' and that up to date with the main branch in that repo main repository.](./assets/github-stale-fork.png)
+![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration'. The outlined section shows that the repository is forked from 'GA-Student/github-collaboration' and that up to date with the main branch in that repo main repository.](../fork-method-merging/assets/github-fork-current.png)
 
 Return to your terminal in VS Code. If you have uncommitted work in a feature branch, commit your work first:
 
@@ -171,7 +169,7 @@ Checkout the `main` branch:
 git checkout main
 ```
 
-Then, pull the code from the `main` branch of the remote repo:
+Then, pull the code from the `main` branch of your ***remote repo***:
 
 ```bash
 git pull origin main
@@ -180,6 +178,8 @@ git pull origin main
 Continue to the **Next steps** section below.
 
 ## Next steps
+
+Whether you are a programmer or a GitHub manager, the `main` branch of your ***local repo*** will now contain the same code as the `main` branch of the ***GitHub manager's remote repo***.
 
 Checkout the existing feature branch:
 
@@ -203,13 +203,13 @@ CONFLICT (add/add): Merge conflict in merge-conflicts.md
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-Now, our merge conflict has made its way to our local repo, where we can fix it.
+Now, our merge conflict has made its way to our ***local repo***, where we can fix it.
 
 The error message points out a merge conflict in the `merge-conflicts.md` file. To proceed, we need to fix those conflicts and then commit the result.
 
 Before continuing, take a quick breather. Merge conflicts can be tricky to resolve. Take your time and make sure you understand the changes that are in conflict. Running `git status` along the way will show you the files with a merge conflict, along with the VS code user interface. This will help you keep track of the files you need to resolve.
 
-Before going any further, close any open file tabs in VS Code and run the `git status` command, and let's observe what we see.
+Before going any further, close any open file tabs in VS Code, run the `git status` command, and let's observe what we see.
 
 ![The VS Code UI, using various methods to inform us of our conflicted code.](./assets/vs-code-conflicts.png)
 
@@ -221,7 +221,7 @@ Great, we identified where the problem lies; let's open the `merge-conflicts.md`
 
 ![The VS Code UI, giving us options to resolve our merge conflicts](./assets/vs-code-conflict-decision.png)
 
-VS Code is helping us here. There are buttons above line one that are shortcuts to resolving this conflict. We can quickly accept the current change, accept the incoming change, or accept both changes. You can also take a more nuanced approach and change the text directly to resolve the conflict manually.
+VS Code is helping us here. There are buttons above line 1 that are shortcuts to resolving this conflict. We can quickly accept the current change, accept the incoming change, or accept both changes. You can also take a more nuanced approach and change the text directly to resolve the conflict manually.
 
 A merge conflict will always be broken down into the following parts:
 
@@ -234,9 +234,9 @@ The current changes will always be between the `=======` and `>>>>>>> compare-br
 
 To resolve any conflicts, look at the file's contents and decide which changes you want to keep. In some cases, you may want to keep both changes. Once you have decided on the changes, remove the conflict markers.
 
-> 🚨 Be cautious about the changes made here - sometimes, this process can introduce bugs into your code that you will have to manually resolve!
+> 🚨 Be cautious about the changes made here - sometimes, this process can introduce bugs into your code that you must resolve manually!
 
-After you've resolved the merge conflict, you should add, commit, and push the branch to GitHub. The GitHub manager should now be able to merge the pull request!
+After you've resolved the merge conflict, you should add, commit, and push the branch to ***your remote repo*** on GitHub. The GitHub manager should now be able to merge the pull request!
 
 ![We can now merge the pull request we made on GitHub earlier!](./assets/github-pr-conflicts-resolved.png)
 

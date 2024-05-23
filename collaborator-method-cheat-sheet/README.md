@@ -61,7 +61,7 @@ Before you begin, you'll need the GitHub username of every programmer on your te
 
 On GitHub, navigate to the main page for the repo you created earlier.
 
-Navigate to the repository **Settings** tab as outlined in red below. If you can't see the **Settings** tab, select the **...** dropdown menu, then click **Settings**.
+Navigate to the repository **Settings** tab as outlined in red below. If you can't see the **Settings** tab, select the **...** dropdown menu, then select **Settings**.
 
 ![Screenshot of a GitHub repository page. The navigation bar at the top includes tabs - the 'Settings' tab is outlined in red.](../collaborator-method-add-collaborators/assets/repo-settings.png)
 
@@ -83,7 +83,7 @@ Select the username of the person you want to add as a collaborator from the lis
 
 ![Screenshot of the 'Collaborators' section in the 'Settings' tab of a GitHub repository. The main content area shows a modal for adding a collaborator to the repository. In the search field, 'ga-collaborator' is typed, and a result is highlighted and outlined in red.](../collaborator-method-add-collaborators/assets/repo-collaborators-search-results.png)
 
-Finally, click the **Add person to this repository** button outlined in red below (the name on the button will match the username of the person you want to add and will look different from the screenshot).
+Finally, select the **Add person to this repository** button outlined in red below (the name on the button will match the username of the person you want to add and will look different from the screenshot).
 
 ![Screenshot of the 'Collaborators' section in the 'Settings' tab of a GitHub repository. The main content area shows a modal for adding a collaborator to the repository. The 'ga-collaborator' username is selected, and below it is a green button labeled 'Add ga-collaborator to this repository' which is outlined in red.](../collaborator-method-add-collaborators/assets/repo-collaborators-search-add.png)
 
@@ -95,7 +95,7 @@ Repeat this process to add people as collaborators to this repo until everyone o
 
 > ⚠️ Only ***programmers*** should complete this task.
 
-After your GitHub manager invites you as a collaborator on a repository, you will receive an email similar to the one shown below (check your spam/junk folder if you don't see it). Click the **View invitation** button outlined in red below.
+After your GitHub manager invites you as a collaborator on a repository, you will receive an email similar to the one shown below (check your spam/junk folder if you don't see it). Select the **View invitation** button outlined in red below.
 
 ![Email invitation from GitHub. The body of the email includes an invitation from @GA-Student to collaborate on the repository 'GA-Student/github-collaboration'. There is an option to accept or decline the invitation, with a link to view the invitation. The 'View invitation' button is outlined in red.](../collaborator-method-add-collaborators/assets/collaboration-invite-email.png)
 
@@ -217,7 +217,7 @@ You can see these dropdowns outlined in red in the screenshot below.
 
 ![Screenshot of the GitHub 'Compare changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The page allows users to compare changes across branches, commits, tags, and more. The user can select a base branch and a comparison branch from dropdown menus. These are outlined in red.](../collaborator-method-pull-requests/assets/github-compare-branches.png)
 
-Click the **compare** dropdown, and select the branch you want to compare to the `main` branch. This is outlined in red in the screenshot below (although the branch name you want to compare to the `main` branch will be different). Note the search feature here - it may be necessary to use this when more branches are made in a repo.
+Select the **compare** dropdown, and select the branch you want to compare to the `main` branch. This is outlined in red in the screenshot below (although the branch name you want to compare to the `main` branch will be different). Note the search feature here - it may be necessary to use this when more branches are made in a repo.
 
 ![Screenshot of the GitHub 'Compare changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The 'compare' dropdown menu outlined in red is open, allowing the user to choose a branch or tag to compare with. In the branch list, 'ga-student/new-feature' is outlined in red.](../collaborator-method-pull-requests/assets/github-compare-select.png)
 

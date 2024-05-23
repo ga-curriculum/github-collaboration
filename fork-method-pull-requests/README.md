@@ -45,13 +45,13 @@ There are two paths from here. Your role on your team will determine which path 
 When you navigate to the pull request page, you will see the `Comparing changes` section. This section is where you will select the branches you want to compare. Two dropdowns in this section allow you to choose the base branch and the compare branch.
 
 - **Base branch** - This is the branch you want to merge your changes into. This is typically the `main` branch.
-- **Compare branch** - This is the branch you want to merge into the base branch. This is typically the feature branch you have been working on. In our case, it is `<identifier>/new-feature`. Note the arrow going from the compare branch to the base branch - this indicates the flow of your code.
+- **Compare branch** - This is the branch you want to merge into the base branch. This is typically the feature branch you have been working on. In our case, it is `new-feature`. Note the arrow going from the **compare branch** to the **base branch** - this indicates the flow of your code.
 
 You can see these dropdowns outlined in red in the screenshot below.
 
 ![Screenshot of the GitHub 'Compare changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The page allows users to compare changes across branches, commits, tags, and more. The user can select a base branch and a comparison branch from dropdown menus. These are outlined in red.](./assets/github-compare-branches.png)
 
-Click the **compare** dropdown, and select the branch you want to compare to the `main` branch. This is outlined in red in the screenshot below (although the branch name you want to compare to the `main` branch will be different). Note the search feature here - it may be necessary to use this when more branches are made in a repo.
+Select the **compare** dropdown, and select the branch you want to compare to the `main` branch. This is outlined in red in the screenshot below (although the branch name you want to compare to the `main` branch will be different). Note the search feature here - it may be necessary to use this when more branches are made in a repo.
 
 ![Screenshot of the GitHub 'Compare changes' page for the repository 'github-collaboration' in the 'GA-Student' account. The 'compare' dropdown menu outlined in red is open, allowing the user to choose a branch or tag to compare with. In the branch list, 'ga-student/new-feature' is outlined in red.](./assets/github-compare-select.png)
 
@@ -77,12 +77,12 @@ The UI below this link will change slightly. It should now look like the screens
 
 This section is where you will select the branches you want to compare. Four dropdowns, detailed below, allow you to choose the repositories and branches to compare.
 
-- **Base repository** - This is the repository you want to contribute to. This is the ***GitHub manager's*** repository that you originally forked.
+- **Base repository** - This is the repository you want to contribute to. This should be the ***GitHub manager's remote repo***, which you originally forked from.
 - **Base branch** - This is the branch you want to merge your changes into. This is typically the `main` branch.
 
 It is unlikely that you will need to modify these from their default value. However, you will likely need to alter the next two dropdowns:
 
-- **Head repository** - This is the repository you want to contribute code from. This is ***your*** repository (forked from the GitHub manager's repository).
+- **Head repository** - This is the repository you want to contribute code from. This is your own ***programmer's remote repo*** (forked from the GitHub manager's repository).
 - **Compare branch** - This is the branch you want to merge into the **base branch**. This is typically the feature branch you have been working on. In our case, it is `new-feature`. Note the arrow going from the **head repository**/**compare branch** to the **base repository**/**base branch** - this indicates the flow of your code.
 
 Select the **head repository** dropdown, and choose the `<your-username>/github-collaboration` repository, replacing `<your-username>` (including the `<` and `>`). This is outlined in red in the screenshot below (although the repository name you want to use will be different).

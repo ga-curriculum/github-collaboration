@@ -35,7 +35,7 @@ This page has a lot of information on it that is important to understand:
 
 > 🧠 Use this information to help you review a pull request and identify the changes it will make to the base branch.
 >
-> If something needs to be fixed, you should communicate that with the person who made the pull request so that they can fix the issue before you merge the changes into the base branch. They'll work in the same feature branch to make the necessary updates, then push to the remote repo when the fixes are in place - the pull request will automatically update.
+> If something needs to be fixed, you should communicate that with the person who made the pull request so that they can resolve the issue before you merge the changes into the base branch. They'll work in the same feature branch to make the necessary updates, then push to the remote repo when the fixes are in place - the pull request will automatically update.
 
 Let's talk about the actions you can take:
 
@@ -46,7 +46,7 @@ Let's talk about the actions you can take:
 
 You should be able to select the **Merge pull request** button. When you select this button, GitHub will merge the changes from the compare branch into the base branch. That's it! You have merged the changes remotely. 🎉
 
-Continue to merge pull requests until there are none left to merge. If you've followed along with the lecture so far you shouldn't encounter any merge conflicts.
+Continue to merge pull requests until there are none left to merge. If you've followed along with the lecture so far, you shouldn't encounter any merge conflicts.
 
 ## Merging locally (***GitHub managers*** and ***programmers***)
 
@@ -82,7 +82,7 @@ From here, you can take two different paths. You will typically only choose one 
 - **Create a new branch**: Do this if you are ready to start working on a new feature.
 - **Checkout an existing feature branch**: Do this if you have paused work on a feature and still have more work to do with it.
 
-> ⚠️ Do not do either of these right now, the below notes are just a quick reference if you need to come back to this material.
+> ⚠️ Do not do either of these right now. The notes below are just a quick reference if you need to return to this material.
 
 See the sections below for more details on what action to take for each path.
 
@@ -91,10 +91,10 @@ See the sections below for more details on what action to take for each path.
 Use the same command you used to create a branch before:
 
 ```bash
-git branch <identifier>/new-feature
+git branch <identifier>/<feature-name>
 ```
 
-> 🚨 Just like before, replace `<identifier>` (including the `<` and `>`) in the above command with an identifier that represents you.
+> 🚨 Just like before, replace `<identifier>` (including the `<` and `>`) in the above command with an identifier that represents you. Replace `<feature-name>` (including the `<` and `>`) in the above command with an appropriate branch name identifying the feature that the branch implements.
 
 You can now do work in this branch and continue contributing as normal.
 

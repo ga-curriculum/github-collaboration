@@ -16,7 +16,7 @@ Forking on GitHub makes a copy of a repository from one GitHub account to a diff
 
 Forking can be done on any GitHub repository that allows it by following these steps.
 
-1. **Navigate to the repository**: The GitHub manager on your team should have already sent you a URL to access this repo. Open your browser and navigate there now.
+1. **Navigate to the repository**: The GitHub manager on your team should have already sent you a URL to access the ***GitHub manager's remote repo***. Open your browser and navigate there now.
 
 2. **Fork the repo**: Select the **Fork** button near the top right corner of the page, as indicated by the red outline below.
 
@@ -26,7 +26,9 @@ Forking can be done on any GitHub repository that allows it by following these s
 
    ![Screenshot of the GitHub 'Create a new fork' page for the repository 'github-collaboration' under the 'GA-Student' account. The 'Owner' field is outlined in red and is set to 'ga-collaborator' and the 'Repository name' field is pre-filled with 'github-collaboration'. There is a green checkmark indicating that the repository name is available. The 'Copy the main branch only' checkbox is selected. At the bottom right, the 'Create fork' button is outlined in red.](./assets/create-fork.png)
 
-After completing the above steps, you'll be taken to the forked repo on your account. Note the **forked from** text outlined in red below, indicating that this repo was forked from another repo.
+After completing the above steps, you'll be taken to the forked repo on your account. Through the rest of this lecture, we'll refer to this repo as the ***programmer's remote repo***. Note the **forked from** text outlined in red below, indicating that this repo was forked from another repo (the ***GitHub manager's remote repo***).
+
+Note each programmer has their own remote repo - you'll only work in your own.
 
 ![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration', showing that it is forked from 'GA-Student/github-collaboration'.](./assets/forked-repo.png)
 
@@ -36,11 +38,9 @@ You forked the GitHub manager's repo! 🎉 Now, let's clone it down.
 
 > ⚠️ Only ***programmers*** should complete this task.
 
-We copied the `github-collaboration` repo from one GitHub account to another by forking it. The next step is to clone the forked copy to your local device. This process isn't any different from cloning a repo that wasn't forked.
+We copied the `github-collaboration` repo from one GitHub account to another by forking it. The next step is to clone the forked copy (the ***programmer's remote repo***) to your local device. This process isn't any different from cloning a repo that wasn't forked.
 
 ![Fork & clone diagram](./assets/fork-clone.png)
-
-> ⚠️ Only ***programmers*** should complete this task.
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
@@ -48,7 +48,7 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Clone the `github-collaboration` repo you just forked to your device. Your GitHub username should be present in the URL used in the `git clone` command, like this:
+Clone the ***programmer's remote repo*** to your device. Your GitHub username should be present in the URL used in the `git clone` command, like this:
 
 ```bash
 git clone https://github.com/<your-username>/github-collaboration.git
@@ -56,17 +56,22 @@ git clone https://github.com/<your-username>/github-collaboration.git
 
 Replacing `<your-username>` (including the `<` and `>`) with your GitHub username.
 
-Enter the new `github-collaboration` directory, and open it in VS Code:
+Enter the new `github-collaboration` directory. We'll refer to this as the ***programmer's local repo***.
 
 ```bash
 cd github-collaboration
+```
+
+Finally, open it in VS Code:
+
+```bash
 code .
 ```
 
 ## How are forking and cloning different?
 
-- Forking creates a copy of a repository in your **GitHub account**.
-- Cloning downloads a repository from GitHub to your **local machine**, enabling you to work on the code.
+- Forking creates a copy of a repository in your **GitHub account**. This repository is the ***programmer's remote repo***.
+- Cloning downloads a repository from GitHub to your **local machine**, enabling you to work on the code. This repository is the ***programmer's local repo***.
 
 While forking and cloning are typically done in sequence, it's important to understand that they serve different purposes. You can fork a repository without cloning it, and you can clone a repository without forking it.
 

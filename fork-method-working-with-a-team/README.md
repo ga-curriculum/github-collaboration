@@ -17,11 +17,11 @@ You've now seen the collaboration workflow - let's review it:
 
 - **Create a new branch**: Each team member will create a new branch to work on a new feature or bug fix.
 - **Make changes**: Write code! Build features, fix bugs, and so on.
-- **Add, commit, and push the branch to GitHub**: Each team member will push their branch to the repository.
-- **Create a pull request**: Each team member will create a pull request to merge their changes into the main codebase.
-- **Review and merge**: The GitHub manager will lead the team in reviewing all pull requests. Once the changes have been reviewed, the GitHub manager will merge them into the main codebase.
-- **Programmers sync forks**: Programmers will sync the `main` branch of their remote forks to the `main` branch of the GitHub Manager's remote repo.
-- **Pull changes**: Each team member will pull the changes from the `main` branch of their remote repo to their local machine after ensuring their remote fork is up to date.
+- **Add, commit, and push the branch to GitHub**: Each team member will push their branch to ***their remote repo***.
+- **Create a pull request**: Each team member will create a pull request to merge their changes into the ***GitHub Manager's remote repo***.
+- **Review and merge**: The GitHub manager will lead the team in reviewing all pull requests. Once the changes have been reviewed, the GitHub manager will merge them into the ***GitHub Manager's remote repo***.
+- **Programmers sync forks**: Programmers will sync the `main` branch of ***their remote repos*** to the `main` branch of the ***GitHub Manager's remote repo***.
+- **Pull changes**: Each team member will pull the changes from the `main` branch of ***their remote repo*** to ***their local repo*** after ensuring their remote fork is up to date.
 
 ## 🎓 You do
 

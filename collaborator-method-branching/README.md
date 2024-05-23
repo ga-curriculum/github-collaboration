@@ -54,7 +54,7 @@ This command creates a new `<identifier>/new-feature` branch. Note that we separ
 
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
-> 🚨 When collaborating you will ***not*** write code in the `main` branch of a repsitory, ever. You will still interact with the `main` branch, but you will not write code there.
+> 🚨 When collaborating, you will ***not*** write code in the `main` branch of a repository, ever. You will still interact with the `main` branch, but you will not write code there.
 
 Let's view the list of branches to confirm that the new branch was created:
 
@@ -94,7 +94,7 @@ To review:
 
 Let's simulate what it will look like as you contribute code to a project.
 
-When we used the `git branch <identifier>/new-feature` command, we created another branch using the `main` branch as a starting point.
+When we used the `git branch <identifier>/new-feature` command, we created a new branch using the `main` branch as a starting point.
 
 This means all the files and code in the `main` branch were duplicated into the `<identifier>/new-feature` branch. From now on, any code we write will ***only exist in this feature branch***. Let's demo this.
 
@@ -103,7 +103,7 @@ Create a new markdown file with a name of your choice. ***Important: ensure you 
 Stage and commit the changes:
 
 ```bash
-git add .
+git add -A
 git commit -m "add parallel universe file"
 ```
 
@@ -133,7 +133,7 @@ The file is back! 🎉
 
 Currently, everything we have done is locally on our machine. On GitHub, we have a remote repository that we cloned. When we created the `<identifier>/new-feature` branch, we created a local branch. This means that the branch only exists on our machine.
 
-We need to push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command:
+We must push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command:
 
 ```bash
 git push origin <identifier>/new-feature
