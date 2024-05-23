@@ -113,7 +113,7 @@ Open your Terminal application and clone the repo to your device into an appropr
 
 ## Working in branches (repeat for every new feature you add)
 
-This is where the GitHub collaboration workflow begins. This step and the ones after it are ones you will complete repeatedly throughout a project.
+This is where the GitHub collaboration workflow begins. This step and the ones after it are ones you will complete repeatedly throughout a project. Your project should be open in VS Code.
 
 ### Creating and checkout a branch (***GitHub managers*** and ***programmers***)
 
@@ -161,7 +161,7 @@ Write code as you normally would.
 Stage and commit the changes:
 
 ```bash
-git add .
+git add -A
 git commit -m "meaningful commit message"
 ```
 
@@ -288,8 +288,6 @@ From here, you can take two different paths. You will typically only choose one 
 
 - **Create a new branch**: Do this if you are ready to start working on a new feature.
 - **Checkout an existing feature branch**: Do this if you have paused work on a feature and still have more work to do with it.
-
-> ⚠️ Do not do either of these right now, the below notes are just a quick reference if you need to come back to this material.
 
 See the sections below for more details on what action to take for each path.
 

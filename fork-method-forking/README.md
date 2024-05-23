@@ -28,7 +28,7 @@ Forking can be done on any GitHub repository that allows it by following these s
 
 After completing the above steps, you'll be taken to the forked repo on your account. Through the rest of this lecture, we'll refer to this repo as the ***programmer's remote repo***. Note the **forked from** text outlined in red below, indicating that this repo was forked from another repo (the ***GitHub manager's remote repo***).
 
-Note each programmer has their own remote repo - you'll only work in your own.
+> 💡 Each programmer has their own remote repo - you'll only work in your own.
 
 ![Screenshot of the GitHub repository page for 'ga-collaborator/github-collaboration', showing that it is forked from 'GA-Student/github-collaboration'.](./assets/forked-repo.png)
 

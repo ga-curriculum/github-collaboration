@@ -1,4 +1,4 @@
-# ![GitHub Collaboration - Collaborator Method - Pull Requests](./assets/hero.png)
+# ![GitHub Collaboration - Fork Method - Pull Requests](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to submit pull requests.
 

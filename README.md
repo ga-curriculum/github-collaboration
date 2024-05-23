@@ -39,19 +39,21 @@ After you've completed that, move into one of the methods below.
 
 | Lesson | Skills |
 | ------ | ------ |
-| [Fork Method - Setup](./fork-method-setup/README.md)                     | Setting up the development environment.                           |
-| [Fork Method - Forking](./fork-method-forking/README.md)                 | Fork and clone a repository from GitHub.                          |
-| [Fork Method - Branching](./fork-method-branching/README.md)             | Work and write code in branches.                                  |
-| [Fork Method - Pull Requests](./fork-method-pull-requests/README.md)     | Submit pull requests.                                             |
-| [Fork Method - Merging](./fork-method-merging/README.md)                 | Merge pull requests.                                              |
-| [Fork Method - Merge Conflicts](./fork-method-merge-conflicts/README.md) | Handle merge conflicts.                                           |
-| [Fork Method - Working with a Team](./fork-method-working-with-a-team/README.md)                   | Strategies to work well as a team, including a practice exercise. |
+| [Fork Method - Setup](./fork-method-setup/README.md)                             | Setting up the development environment.                           |
+| [Fork Method - Forking](./fork-method-forking/README.md)                         | Fork and clone a repository from GitHub.                          |
+| [Fork Method - Branching](./fork-method-branching/README.md)                     | Work and write code in branches.                                  |
+| [Fork Method - Pull Requests](./fork-method-pull-requests/README.md)             | Submit pull requests.                                             |
+| [Fork Method - Merging](./fork-method-merging/README.md)                         | Merge pull requests.                                              |
+| [Fork Method - Merge Conflicts](./fork-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
+| [Fork Method - Working with a Team](./fork-method-working-with-a-team/README.md) | Strategies to work well as a team, including a practice exercise. |
 
 ## Level Up
 
 | Lesson | Skills |
 | ------ | ------ |
 | [Collaborator Method - Cheat Sheet](./collaborator-method-cheat-sheet/README.md) | A cheat sheet for the commands covered in the collaborator method content.                           |
+| [Collaborator Method - Forking](./collaborator-method-forking/README.md)         | Why and how to fork a repo after you've been a collaborator.                                         |
+| [Fork Method - Cheat Sheet](./fork-method-cheat-sheet/README.md)                 | A cheat sheet for the commands covered in the fork method content.                                   |
 | [Branch Naming Conventions](./branch-naming-conventions/README.md)               | Work with standardized branch naming strategies to better track the details of the work in a branch. |
 
 ## References

@@ -4,7 +4,7 @@
 
 ## Collabarative Coding
 
-Let's say you are working on a project with a team of developers. Each developer is responsible for a different part of the project. Alice is working on the front-end, Sarah is working on the back-end, and Mary is working on the database.
+Let's say you are working on a project with a team of developers. Each developer is responsible for a different part of the project. Alice is working on styling, Sarah is working on the bug fixes, and Mary is working on building features.
 
 ![Collabarative coding diagram](./assets/group-collab-a.png)
 
