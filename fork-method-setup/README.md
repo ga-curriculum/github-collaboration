@@ -43,6 +43,8 @@ git clone https://github.com/<your-username>/github-collaboration.git
 
 Replacing `<your-username>` (including the `<` and `>`) with your GitHub username.
 
+> 🚨 As always, don't clone into a directory already initialized as a git repository as this will create a nested repo.
+
 Enter the new `github-collaboration` directory. We'll refer to this as the ***GitHub manager's local repo***.
 
 ```bash

@@ -54,6 +54,10 @@ After your GitHub manager invites you as a collaborator on a repository, you wil
 
 ![Email invitation from GitHub. The body of the email includes an invitation from @GA-Student to collaborate on the repository 'GA-Student/github-collaboration'. There is an option to accept or decline the invitation, with a link to view the invitation. The 'View invitation' button is outlined in red.](./assets/collaboration-invite-email.png)
 
+> 🧠 No email? Not a problem. Navigate to the repository on GitHub (get the URL from your GitHub manager) and select the **View invitation** button as outlined in red below.
+>
+> ![Screenshot of a GitHub repository page. There is a callout at the top of the repo page, inviting you to collaborate on the repository.](./assets/repo-view-invite.png)
+
 You'll be taken to a page prompting you to accept the invitation to collaborate. Accept it by selecting the **Accept invitation** button outlined in red in the screenshot below.
 
 ![GitHub collaboration invitation acceptance page. The page shows that GA-Student has invited the user to collaborate on the repository 'github-collaboration'. There are options to 'Accept invitation' or 'Decline'. The 'Accept invitation' button is outlined in red.](./assets/collaboration-invite-github.png)
@@ -70,7 +74,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Clone the `github-collaboration` repo to your device, enter the new `github-collaboration` directory, and open it in VS Code:
+Clone the `github-collaboration` repo to your device.
+
+> 🚨 As always, don't clone into a directory already initialized as a git repository as this will create a nested repo.
+
+Enter the new `github-collaboration` directory, and open it in VS Code:
 
 ```bash
 cd github-collaboration

@@ -48,6 +48,8 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
+> 🚨 As always, don't clone into a directory already initialized as a git repository as this will create a nested repo.
+
 Clone the ***programmer's remote repo*** to your device. Your GitHub username should be present in the URL used in the `git clone` command, like this:
 
 ```bash
