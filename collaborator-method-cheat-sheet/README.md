@@ -169,6 +169,10 @@ git commit -m "meaningful commit message"
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
+tktk David
+
+![Diagram](./assets/push-to-remote.png)
+
 We need to push the branch to the remote repository to make it available on GitHub. Let's do that now. In your terminal, run the following command after modifying it:
 
 ```bash
@@ -207,6 +211,10 @@ You should arrive at a page similar to the one shown below.
 ### Comparing changes (***GitHub managers*** and ***programmers***)
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
+
+tktk David
+
+![Diagram](./assets/base-compare.png)
 
 When you navigate to the pull request page, you will see the `Comparing changes` section. This section is where you will select the branches you want to compare. Two dropdowns in this section allow you to choose the base branch and the compare branch.
 
