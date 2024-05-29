@@ -46,6 +46,8 @@ git branch new-feature
 
 This command creates a new `new-feature` branch. Note that we separate words with the `-` character so that our branch names are kebab case.
 
+![Diagram](./assets/fork-branching.png)
+
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
 > 🚨 When collaborating, you will ***not*** write code in the `main` branch of a repository, ever. You will still interact with the `main` branch, but you will not write code there.
@@ -144,6 +146,8 @@ The `git push` command takes two arguments:
 >
 > - The team member with the ***GitHub manager*** role will push to the ***GitHub manager's remote repo*** (the repo forked from the team members with the ***programmer*** role).
 > - The team members with the ***programmer*** role will push to the ***programmer's remote repo*** on their accounts (remember, each programmer has their own remote repo belonging to them).
+
+![Pushing the 'identifier/new-feature' branch from our local repository to the 'identifier/new-feature' branch on the remote repository.](./assets/push-to-remote.png)
 
 Navigate to the GitHub `github-collaboration` repo in your account. The URL will look like: `https://github.com/<your-username>/github-collaboration`. `<your-username>` (including the `<` and `>`) should be replaced with your GitHub username.
 

@@ -52,6 +52,8 @@ Continue to merge pull requests until there are none left to merge. If you've fo
 
 > ⚠️ Both ***GitHub managers*** and ***programmers*** should complete this task.
 
+![Merging the remote main branch into local feature branches.](./assets/pull-changes.png)
+
 There is one more action we need to take after we merge the pull request. Everyone on the team needs to pull the changes made in the `main` branch of the remote repository to their local repo's `main` branch and then merge the changes into any work currently being done.
 
 > 🧠 Everyone on the team should do this after each merge to the `main` branch on the GitHub repo. This will take some adjustment, but it's the best way to ensure you're working with the newest possible code and will also help reduce the chances of submitting a pull request that contains merge conflicts.

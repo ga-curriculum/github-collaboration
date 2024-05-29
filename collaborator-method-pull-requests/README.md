@@ -39,6 +39,8 @@ You should arrive at a page similar to the one shown below.
 
 When you navigate to the pull request page, you will see the `Comparing changes` section. This section is where you will select the branches you want to compare. Two dropdowns in this section allow you to choose the base branch and the compare branch.
 
+![The compare branch will be brought into the base branch.](./assets/base-compare.png)
+
 - **Base branch** - This is the branch you want to merge your changes into. This is typically the `main` branch.
 - **Compare branch** - This is the branch you want to merge into the base branch. This is typically the feature branch you have been working on. In our case, it is `<identifier>/new-feature`. Note the arrow going from the ***compare branch*** to the ***base branch*** - this indicates the flow of your code.
 

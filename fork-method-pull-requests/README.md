@@ -44,6 +44,8 @@ There are two paths from here. Your role on your team will determine which path 
 
 When you navigate to the pull request page, you will see the `Comparing changes` section. This section is where you will select the branches you want to compare. Two dropdowns in this section allow you to choose the base branch and the compare branch.
 
+![The compare branch will be brought into the base branch.](./assets/base-compare-gh-mgr.png)
+
 - **Base branch** - This is the branch you want to merge your changes into. This is typically the `main` branch.
 - **Compare branch** - This is the branch you want to merge into the base branch. This is typically the feature branch you have been working on. In our case, it is `new-feature`. Note the arrow going from the **compare branch** to the **base branch** - this indicates the flow of your code.
 
@@ -61,7 +63,7 @@ After selecting a branch, you'll see the changes made if the pull request is mer
 
 Skip to the **Open a pull request** section below.
 
-### Comparing changes across forks (***programmers*** )
+### Comparing changes across forks (***programmers***)
 
 > ⚠️ Only ***programmers*** should complete this task.
 
@@ -84,6 +86,8 @@ It is unlikely that you will need to modify these from their default value. Howe
 
 - **Head repository** - This is the repository you want to contribute code from. This is your own ***programmer's remote repo*** (forked from the GitHub manager's repository).
 - **Compare branch** - This is the branch you want to merge into the **base branch**. This is typically the feature branch you have been working on. In our case, it is `new-feature`. Note the arrow going from the **head repository**/**compare branch** to the **base repository**/**base branch** - this indicates the flow of your code.
+
+![The compare branch will be brought into the base branch.](./assets/base-compare-across-forks.png)
 
 Select the **head repository** dropdown, and choose the `<your-username>/github-collaboration` repository, replacing `<your-username>` (including the `<` and `>`). This is outlined in red in the screenshot below (although the repository name you want to use will be different).
 

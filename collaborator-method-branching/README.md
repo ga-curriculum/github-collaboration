@@ -52,6 +52,8 @@ git branch <identifier>/new-feature
 
 This command creates a new `<identifier>/new-feature` branch. Note that we separate words with the `-` character so that our branch names are kebab case.
 
+![The main branch is used as the starting point for the identifier/feature branch.](./assets/collab-branching.png)
+
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
 > 🚨 When collaborating, you will ***not*** write code in the `main` branch of a repository, ever. You will still interact with the `main` branch, but you will not write code there.
@@ -147,6 +149,8 @@ The `git push` command takes two arguments:
 - The branch you want to push (`<identifier>/new-feature`)
 
 > 💡 The `origin` is the default name for the remote repository. When you clone a repository, Git automatically creates a remote called `origin` that points to the original repository on GitHub.
+
+![Pushing the 'identifier/new-feature' branch from our local repository to the 'identifier/new-feature' branch on the remote repository.](./assets/push-to-remote.png)
 
 If you go to the repository on GitHub, you will see that there is now a `<identifier>/new-feature` branch. You may see multiple if many people on your team have all pushed!
 
