@@ -47,7 +47,7 @@ git branch new-feature
 This command creates a new `new-feature` branch. Note that we separate words with the `-` character so that our branch names are kebab case.
 
 tktk David
-![Diagram](./assets/push-to-remote.png)
+![Diagram](./assets/collab-branching.png)
 
 Because we were in the `main` branch when we created it, it will be created using the `main` branch as the starting point.
 
