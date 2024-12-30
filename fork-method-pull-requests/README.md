@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Fork Method - Pull Requests](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Fork Method Pull Requests</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to submit pull requests.
 

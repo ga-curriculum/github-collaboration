@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Fork Method - Branching](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Fork Method Branching</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to create and work in branches.
 

@@ -1,0 +1,137 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodSetup = new Template.Microlesson {
+  friendlyName = "Collaborator Method Setup"
+  dirName = "collaborator-method-setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodAddCollaborators = new Template.Microlesson {
+  friendlyName = "Collaborator Method Add Collaborators"
+  dirName = "collaborator-method-add-collaborators"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodBranching = new Template.Microlesson {
+  friendlyName = "Collaborator Method Branching"
+  dirName = "collaborator-method-branching"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodPullRequests = new Template.Microlesson {
+  friendlyName = "Collaborator Method Pull Requests"
+  dirName = "collaborator-method-pull-requests"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodMerging = new Template.Microlesson {
+  friendlyName = "Collaborator Method Merging"
+  dirName = "collaborator-method-merging"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodMergeConflicts = new Template.Microlesson {
+  friendlyName = "Collaborator Method Merge Conflicts"
+  dirName = "collaborator-method-merge-conflicts"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodWorkingWithATeam = new Template.Microlesson {
+  friendlyName = "Collaborator Method Working with a Team"
+  dirName = "collaborator-method-working-with-a-team"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodSetup = new Template.Microlesson {
+  friendlyName = "Fork Method Setup"
+  dirName = "fork-method-setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodForking = new Template.Microlesson {
+  friendlyName = "Fork Method Forking"
+  dirName = "fork-method-forking"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodBranching = new Template.Microlesson {
+  friendlyName = "Fork Method Branching"
+  dirName = "fork-method-branching"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodPullRequests = new Template.Microlesson {
+  friendlyName = "Fork Method Pull Requests"
+  dirName = "fork-method-pull-requests"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodMerging = new Template.Microlesson {
+  friendlyName = "Fork Method Merging"
+  dirName = "fork-method-merging"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodMergeConflicts = new Template.Microlesson {
+  friendlyName = "Fork Method Merge Conflicts"
+  dirName = "fork-method-merge-conflicts"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodWorkingWithATeam = new Template.Microlesson {
+  friendlyName = "Fork Method Working with a Team"
+  dirName = "fork-method-working-with-a-team"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodCheatSheet = new Template.Microlesson {
+  friendlyName = "Collaborator Method Cheat Sheet"
+  dirName = "collaborator-method-cheat-sheet"
+  type = "Content"
+  videoUrl = ""
+}
+
+collaboratorMethodForking = new Template.Microlesson {
+  friendlyName = "Collaborator Method Forking"
+  dirName = "collaborator-method-forking"
+  type = "Content"
+  videoUrl = ""
+}
+
+forkMethodCheatSheet = new Template.Microlesson {
+  friendlyName = "Fork Method Cheat Sheet"
+  dirName = "fork-method-cheat-sheet"
+  type = "Content"
+  videoUrl = ""
+}
+
+branchNamingConventions = new Template.Microlesson {
+  friendlyName = "Branch Naming Conventions"
+  dirName = "branch-naming-conventions"
+  type = "Content"
+  videoUrl = ""
+}
+

@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Collaborator Method - Add Collaborators](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Collaborator Method Add Collaborators</span>
+</h1>
 
 ## About collaboration in a repository
 

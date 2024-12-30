@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Collaborator Method - Cheat Sheet](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Collaborator Method Cheat Sheet</span>
+</h1>
 
 ## Intro
 

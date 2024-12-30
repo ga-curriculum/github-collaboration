@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Branch Naming Conventions](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Branch Naming Conventions</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify common branch naming conventions.
 

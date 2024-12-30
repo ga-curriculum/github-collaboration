@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Collaborator Method - Forking](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Collaborator Method Forking</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to fork and clone a repository from GitHub.
 

@@ -1,12 +1,11 @@
-# ![GitHub Collaboration](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">GitHub Collaboration</span>
+</h1>
 
 ## About
 
 In this module, students will practice GitHub collaboration techniques essential for contributing to team projects. They will learn the basics of forking and cloning repositories, managing branches, handling pull requests, and resolving merge conflicts. By the end of this module, students will be proficient in using GitHub to efficiently collaborate and contribute to shared projects.
-
-## Prerequisites
-
-- Intro to Git and GitHub
 
 ## Content
 
@@ -17,16 +16,16 @@ This lecture content is divided into two methods of GitHub collaboration:
 
 You may explore both of these methods or just choose a single path. Your instructor will guide you on how to interact with this content and communicate to you which path you'll take. Regardless of the path you take, start with the following concepts lecture.
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                           | Skills                                        |
+| -------------------------------- | --------------------------------------------- |
 | [Concepts](./concepts/README.md) | Understand why GitHub is used to collaborate. |
 
 After you've completed that, move into one of the methods below.
 
 ### Collaborator method
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                                                           | Skills                                                            |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | [Collaborator Method - Setup](./collaborator-method-setup/README.md)                             | Set up the development environment.                               |
 | [Collaborator Method - Add Collaborators](./collaborator-method-add-collaborators/README.md)     | Add collaborators to a GitHub repo.                               |
 | [Collaborator Method - Branching](./collaborator-method-branching/README.md)                     | Work and write code in branches.                                  |
@@ -37,8 +36,8 @@ After you've completed that, move into one of the methods below.
 
 ### Fork method
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                                           | Skills                                                            |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Fork Method - Setup](./fork-method-setup/README.md)                             | Setting up the development environment.                           |
 | [Fork Method - Forking](./fork-method-forking/README.md)                         | Fork and clone a repository from GitHub.                          |
 | [Fork Method - Branching](./fork-method-branching/README.md)                     | Work and write code in branches.                                  |
@@ -47,10 +46,10 @@ After you've completed that, move into one of the methods below.
 | [Fork Method - Merge Conflicts](./fork-method-merge-conflicts/README.md)         | Handle merge conflicts.                                           |
 | [Fork Method - Working with a Team](./fork-method-working-with-a-team/README.md) | Strategies to work well as a team, including a practice exercise. |
 
-## Level Up
+## Level up content
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                                           | Skills                                                                                               |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [Collaborator Method - Cheat Sheet](./collaborator-method-cheat-sheet/README.md) | A cheat sheet for the commands covered in the collaborator method content.                           |
 | [Collaborator Method - Forking](./collaborator-method-forking/README.md)         | Why and how to fork a repo after you've been a collaborator.                                         |
 | [Fork Method - Cheat Sheet](./fork-method-cheat-sheet/README.md)                 | A cheat sheet for the commands covered in the fork method content.                                   |
@@ -60,7 +59,18 @@ After you've completed that, move into one of the methods below.
 
 📖 [Reference Materials](./references/README.md)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+- Intro to Git and GitHub
+
+### Course landing pages
+
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/github-collaboration/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/github-collaboration/canvas-landing-pages/fallback.html)
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
@@ -70,4 +80,4 @@ After you've completed that, move into one of the methods below.
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

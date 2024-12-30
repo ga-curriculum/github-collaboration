@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Fork Method - Merge Conflicts](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Fork Method Merge Conflicts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to merge branches and handle merge conflicts.
 

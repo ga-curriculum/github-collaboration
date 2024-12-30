@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Fork Method - Working with a Team](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Fork Method Working with a Team</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use the GitHub workflow to work well as a team.
 

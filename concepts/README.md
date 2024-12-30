@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain why GitHub is used to collaborate across large projects or organizations.
 

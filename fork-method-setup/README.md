@@ -1,4 +1,7 @@
-# ![GitHub Collaboration - Fork Method - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">GitHub Collaboration</span>
+  <span class="subhead">Fork Method Setup</span>
+</h1>
 
 ## Setup
 
